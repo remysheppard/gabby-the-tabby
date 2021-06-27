@@ -1,18 +1,36 @@
+{{- if .Title -}}
+  {{- .Scratch.Set "title" .Title -}}
+{{- else if and .IsSection .File -}}
+  {{- .Scratch.Set "title" (path.Base .File.Dir | humanize | title) -}}
+{{- else if and .IsPage .File -}}
+  {{- .Scratch.Set "title" (.File.BaseFileName | humanize | title) -}}
+{{- end -}}
+{{- $title := .Scratch.Get "title" -}}
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{{ .Title }}</title>
+    <title>
+      {{- $title -}}&nbsp;|&nbsp;{{- .Site.Title -}}
+    </title>
 
-    {{ $styles := resources.Get "css/main.css" }}
-    {{ $styles = $styles | resources.PostCSS (dict "inlineImports" true) }}
+    {{ hugo.Generator }}
 
-    {{ if hugo.IsProduction }}
-      {{ $styles = $styles | minify }}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="author" content="{{ .Site.Params.Author }}">
+
+    {{ with resources.Get "css/main.css" | resources.PostCSS (dict "inlineImports" true) | minify }}
+      <style type="text/css">{{ .Content | safeCSS }}</style>
     {{ end }}
-    <link href="{{ $styles.Permalink }}" rel="stylesheet" />
+
   </head>
 
-  <body>
+  <body class="bg-gray-50">
+
+    {{ partial "navigation" . }}
+
     {{ block "main" . }}{{ end }}
+
+    <!--script src="https://kit.fontawesome.com/c7953f49d9.js" defer crossorigin="anonymous"></script-->
   </body>
 </html>

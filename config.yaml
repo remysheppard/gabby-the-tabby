@@ -1,0 +1,52 @@
+baseURL: 'https://www.gabbythetabby.com/'
+languageCode: en-us
+title: Gabby The Tabby
+
+taxonomies:
+  category: categories
+  tag: tags
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  description: 'Cat health and behavior advice, cat product reviews.'
+  author: Remy Sheppard
+  donate: 
+
+  social:
+    - name: YouTube
+      url: 'https://www.youtube.com/channel/UCiIqBLPEh8JDbr05X8mKa_g'
+      icon:
+    - name: Twitter
+      url: 'https://twitter.com/therealgabbycat'
+      pre: >-
+        <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Twitter</title><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg>
+    - name: Instagram
+      url: 'https://www.instagram.com/gabby.the.tabby/'
+      icon:
+    - name: Facebook
+      url: 'https://www.facebook.com/gabbythetabbyofficial'
+      icon:
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+      pre: >-
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none"
+        viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round"
+        stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5
+        10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0
+        001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" /></svg>
+    - identifier: about
+      name: About
+      url: /about
+      weight: 2
+      pre: >-
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z" /></svg>
