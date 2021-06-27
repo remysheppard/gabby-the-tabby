@@ -1,18 +1,26 @@
 {
-  "name": "hugo-tailwind",
+  "name": "gabby-the-tabby",
   "version": "1.0.0",
-  "description": "",
+  "description": "A hugo build of Gabby the Tabby",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Remy Sheppard",
+  "license": "CC-BY-4.0",
   "dependencies": {
     "autoprefixer": "^10.2.5",
     "postcss": "8.2.15",
     "postcss-cli": "^8.3.1",
     "tailwindcss": "^2.1.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/rizdy/gabby-the-tabby.git"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/rizdy/gabby-the-tabby/issues"
+  },
+  "homepage": "https://gitlab.com/rizdy/gabby-the-tabby#readme"
 }
