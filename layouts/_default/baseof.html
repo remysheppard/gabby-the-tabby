@@ -29,8 +29,14 @@
 
     {{ partial "navigation" . }}
 
-    {{ block "main" . }}{{ end }}
+    <div class="container px-5 md:px-0 w-full md:w-1/2 mx-auto">
+      {{ block "main" . }}{{ end }}
+    </div>
 
-    <!--script src="https://kit.fontawesome.com/c7953f49d9.js" defer crossorigin="anonymous"></script-->
+
+    {{ partial "footer" . }}
+
+    
+    <script src="https://kit.fontawesome.com/c7953f49d9.js" defer crossorigin="anonymous"></script>
   </body>
 </html>
