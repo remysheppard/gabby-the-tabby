@@ -5,7 +5,7 @@
 			
 			{{ $img := ((resources.Get "images/stand-in.jpg").Resize "x500 q85 jpg").RelPermalink }}
 			
-			<a href="{{ .Permalink }}" class="h-96 rounded-lg flex flex-col justify-end bg-center bg-cover w-full my-5 md:my-0 mx-2 md:mx-0 bg-black bg-opacity-50 shadow transition-all duration-200 hover:bg-opacity-25 filter bg-blend-overlay" style="background-image:url('{{- $img -}}');width:19%">
+			<a href="{{ .Permalink }}" class="h-96 rounded-lg flex flex-col justify-end bg-center bg-cover sm:w-1/6 my-5 md:my-0 mx-2 md:mx-0 bg-black bg-opacity-50 shadow transition-all duration-200 hover:bg-opacity-25 filter bg-blend-overlay" style="background-image:url('{{- $img -}}');">
 				<span class="text-white hover:text-pink-300 px-5 py-2 text-xl text-center">
 					{{ .Title }}
 				</span>
@@ -19,11 +19,31 @@
 
 	</div>
 
+		<section class="container-break my-10 w-full flex flex-wrap justify-evenly px-5 text-lg sm:text-xl">
+			{{ range $index, $element := where site.RegularPages.Reverse "Section" "eq" "articles" }}
+				
+		    <div class="w-full sm:w-1/4 px-8 py-4 m-5 bg-white rounded-lg shadow-md ">
+		        <div class="flex items-center justify-between">
+		            <span class="text-sm font-light text-gray-600 ">{{ .Date.Format "Jan 02, 2006" }}</span>
+		            <span class="px-3 py-1 text-sm font-bold text-gray-100 transition-colors duration-200 transform bg-gray-600 rounded cursor-pointer hover:bg-gray-500">{{ with .Params.categories }}{{ delimit . " " }}{{ end }}</span>
+		        </div>
 
-	<ul>
-		{{ range $index, $element := where site.RegularPages.Reverse "Section" "eq" "articles" }}
-			<li>{{ .Title }}</li>
-		{{ end }}
-	</ul>
+		        <div class="mt-2">
+		            <a href="{{ .Permalink }}" class="text-2xl font-bold text-gray-700  hover:text-gray-600  hover:underline">{{ .Title }}</a>
+		            <p class="mt-2 text-gray-600 ">{{ .Summary }}</p>
+		        </div>
+		        
+		        <div class="flex items-center justify-between mt-4">
+		            <a href="{{ .Permalink }}" class="text-blue-600  hover:underline">Read more</a>
+
+		            <div class="flex items-center">
+		                <img class="hidden object-cover w-10 h-10 mx-4 rounded-full sm:block" src='{{ (( resources.Get "images/avatar.jpg" ).Fill "125x125 q65 webp").RelPermalink }}' alt="avatar">
+		                <span class="font-bold text-gray-700 cursor-pointer ">{{ .Site.Params.author }}</span>
+		            </div>
+		        </div>
+		    </div>
+
+			{{ end }}
+		</section>
 
 {{ end }}

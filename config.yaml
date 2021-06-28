@@ -2,6 +2,8 @@ baseURL: 'https://www.gabbythetabby.com/'
 languageCode: en-us
 title: Gabby The Tabby
 
+summaryLength: 30
+
 taxonomies:
   category: categories
   tag: tags
@@ -14,8 +16,9 @@ outputs:
 
 params:
   description: 'Cat health and behavior advice, cat product reviews.'
-  author: Remy Sheppard
+  author: Samantha Sheppard
   donate: 
+
 menu:
   main:
     - identifier: home
