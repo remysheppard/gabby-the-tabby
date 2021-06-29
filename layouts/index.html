@@ -1,5 +1,7 @@
 {{ define "main"}}
-	
+
+{{ $paginator := .Paginate (where site.RegularPages "Section" "eq" "articles") }}
+
 	<div class="flex flex-col sm:flex-row justify-evenly container-break" style="max-width:98vw">
 		{{ range $index, $element := first 5 (where site.RegularPages "Section" "eq" "articles") }}
 			
@@ -19,8 +21,8 @@
 
 	</div>
 
-		<section class="container-break my-10 w-full flex flex-wrap justify-evenly px-5 text-lg sm:text-xl">
-			{{ range $index, $element := where site.RegularPages.Reverse "Section" "eq" "articles" }}
+		<section class="container-break my-10 w-full flex flex-wrap justify-evenly px-5 text-lg sm:text-xl" style="max-width:98vw">
+			{{ range $paginator.Pages }}
 				
 		    <div class="w-full sm:w-1/4 px-8 py-4 m-5 bg-white rounded-lg shadow-md ">
 		        <div class="flex items-center justify-between">
@@ -45,5 +47,7 @@
 
 			{{ end }}
 		</section>
+
+{{ template "_internal/pagination.html" . }}
 
 {{ end }}
