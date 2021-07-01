@@ -27,7 +27,7 @@
 		    <div class="w-full sm:w-1/4 px-8 py-4 m-5 bg-white rounded-lg shadow-md ">
 		        <div class="flex items-center justify-between">
 		            <span class="text-sm font-light text-gray-600 ">{{ .Date.Format "Jan 02, 2006" }}</span>
-		            <span class="px-3 py-1 text-sm font-bold text-gray-100 transition-colors duration-200 transform bg-gray-600 rounded cursor-pointer hover:bg-gray-500">{{ with .Params.categories }}{{ delimit . " " }}{{ end }}</span>
+		            <span class="px-3 py-1 text-sm font-bold text-red-900 bg-rose-200 rounded">{{ with .Params.categories }}{{ delimit . " " }}{{ end }}</span>
 		        </div>
 
 		        <div class="mt-2">
@@ -36,7 +36,7 @@
 		        </div>
 		        
 		        <div class="flex items-center justify-between mt-4">
-		            <a href="{{ .Permalink }}" class="text-blue-600  hover:underline">Read more</a>
+		            <a href="{{ .Permalink }}" class="text-pink-600  hover:underline">Read more</a>
 
 		            <div class="flex items-center">
 		                <img class="hidden object-cover w-10 h-10 mx-4 rounded-full sm:block" src='{{ (( resources.Get "images/avatar.jpg" ).Fill "125x125 q65 webp").RelPermalink }}' alt="avatar">

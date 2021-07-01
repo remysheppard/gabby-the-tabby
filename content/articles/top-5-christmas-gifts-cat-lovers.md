@@ -2,7 +2,7 @@
 title: 'The Top 5 Christmas Gifts For Cat Lovers'
 date: 
 draft: true
-tags: ['Information']
+categories: ['Information']
 ---
 
 Best Cat Mom Ever Middle Finger Funny Coffee Mug

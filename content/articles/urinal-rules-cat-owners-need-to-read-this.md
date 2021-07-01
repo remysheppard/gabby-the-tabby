@@ -2,7 +2,8 @@
 title: 'Cat meows a lot while using the litter box'
 date: Mon, 09 Nov 2020 13:00:00 +0000
 draft: false
-tags: ['Information']
+categories: ['Information']
+tags: ['Vet Care', 'Litter Box', 'Infection']
 ---
 
 Years ago, when we were new and inexperienced cat owners, we noticed that Gabby was being incredibly loud when using the bathroom. She would warble and meow the whole time she was using the bathroom.

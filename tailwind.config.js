@@ -1,3 +1,5 @@
+const colors = require('tailwindcss/colors')
+
 module.exports = {
   purge: {
     enabled: process.env.HUGO_ENVIRONMENT === "production",
@@ -9,7 +11,16 @@ module.exports = {
   },
   darkMode: false, // or 'media' or 'class'
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        yellow: colors.amber,
+        orange: colors.orange,
+        green: colors.emerald,
+        teal: colors.teal,
+        cyan: colors.cyan,
+        rose: colors.rose,
+      },
+    },
   },
   variants: {
     extend: {},

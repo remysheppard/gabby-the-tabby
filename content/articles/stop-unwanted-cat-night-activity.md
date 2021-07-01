@@ -2,7 +2,7 @@
 title: 'Cat Night Activity Keeping You Awake?'
 date: Mon, 14 Dec 2020 13:00:58 +0000
 draft: false
-tags: ['Information']
+categories: ['Information']
 ---
 
 Every time we're asked about cat night activity, I'm reminded of the movie Gremlins. Have you ever seen the movie Gremlins? It's an eighties horror-comedy about these cute little creatures that suddenly turn into vicious monsters if you feed them after midnight.

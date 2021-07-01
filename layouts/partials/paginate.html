@@ -56,7 +56,7 @@
     <nav class="w-full flex flex-row justify-center">
 
         {{ if $paginator.HasPrev }}
-            <a class="rounded px-5 py-2 mx-2 border-0 text-white shadow bg-gradient-to-br from-pink-400 to-pink-600 hover:from-pink-300 hover:to-pink-400" href="{{ $paginator.Prev.URL }}">Previous</a>
+            <a class="rounded px-5 py-2 mx-2 border-0 text-white shadow bg-pink-400 hover:bg-rose-500 transition-colors duration-300" href="{{ $paginator.Prev.URL }}">Previous</a>
         {{ end }}
 
         {{ range $paginator.Pagers }}
@@ -70,7 +70,7 @@
 
                 {{ else }}
 
-                    <a href="{{ .URL }}" class="rounded px-5 py-2 mx-2 border-0 text-white shadow bg-gradient-to-br from-pink-400 to-pink-600 hover:from-pink-300 hover:to-pink-400">{{ .PageNumber }}</a>
+                    <a href="{{ .URL }}" class="rounded px-5 py-2 mx-2 border-0 text-white shadow bg-pink-400 hover:bg-rose-500 transition-colors duration-300">{{ .PageNumber }}</a>
 
                 {{ end }}
 
@@ -84,7 +84,7 @@
         {{ end }}
 
         {{ if $paginator.HasNext }}
-            <a href="{{ $paginator.Next.URL }}" class="rounded px-5 py-2 mx-2 border-0 text-white shadow bg-gradient-to-br from-pink-400 to-pink-600 hover:from-pink-300 hover:to-pink-400">Next page</a>
+            <a href="{{ $paginator.Next.URL }}" class="rounded px-5 py-2 mx-2 border-0 text-white shadow bg-pink-400 hover:bg-rose-500 transition-colors duration-300">Next page</a>
         {{ end }}
 
 

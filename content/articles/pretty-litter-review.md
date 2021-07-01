@@ -2,7 +2,7 @@
 title: 'Pretty Litter - An Honest Review - 2021'
 date: 
 draft: true
-tags: ['Information']
+categories: ['Reviews']
 ---
 
 Intro text.
@@ -11,7 +11,7 @@ Why we got pretty litter.
 
 Problem we hoped pretty litter would solve
 
-https://www.youtube.com/watch?v=S34MqM4stVE
+{{< youtube S34MqM4stVE >}}
 
 How was pretty litter overall?
 
