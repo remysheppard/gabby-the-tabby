@@ -4,7 +4,8 @@
     "build": "NODE_ENV=production ./node_modules/tailwindcss/lib/cli.js -i ./static/tailwind.css -o ./assets/main.css --minify"
   },
   "dependencies": {
-    "tailwindcss": "^3.0.17"
+    "tailwindcss": "^3.0.17",
+    "tailwindcss-brand-colors": "^0.3.2"
   },
   "devDependencies": {
     "@tailwindcss/aspect-ratio": "^0.4.0",
