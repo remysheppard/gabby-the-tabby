@@ -1,0 +1,30 @@
+
+<title>
+  {{ if not .IsHome }}
+    {{ with .Title }}
+      {{ . }} &middot; 
+    {{ end }}
+  {{ end }}
+  {{ .Site.Title }}
+</title>
+
+<!-- // { Meta Tags } -->
+{{ hugo.Generator }}
+<meta charset="utf-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">  
+<meta name="description" content="{{- .Site.Params.description -}}">
+
+{{ template "_internal/opengraph.html" . }}
+{{ template "_internal/twitter_cards.html" . }}
+
+<!-- // { Styling } -->
+{{ $css := resources.Get "main.css" | minify }}
+{{ with $css }}
+  <style type="text/css">
+    {{ .Content | safeCSS }}
+  </style>
+{{ end }}
+
+<!-- // { FontAwesome } -->
+<link rel="preload" as="script" href="https://kit.fontawesome.com/064a0ac969.js">
+<script src="https://kit.fontawesome.com/064a0ac969.js" defer crossorigin="anonymous"></script>
