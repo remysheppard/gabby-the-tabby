@@ -1,11 +1,16 @@
-
+{{/* Better Site Title */}}
 <title>
   {{- if not .IsHome -}}
     {{- with .Title -}}
-      {{- . -}} &middot; 
+      {{- . -}}
+      &nbsp;&middot;&nbsp;
     {{- end -}}
   {{- end -}}
   {{- .Site.Title -}}
+  {{- if .IsHome -}}
+    &nbsp;&middot;&nbsp;
+    The World's Cutest Little Kitty
+  {{- end -}}
 </title>
 
 <!-- // { Meta Tags } -->
@@ -28,3 +33,5 @@
 <!-- // { FontAwesome } -->
 <link rel="preload" as="script" href="https://kit.fontawesome.com/a1b60d1457.js">
 <script src="https://kit.fontawesome.com/a1b60d1457.js" defer crossorigin="anonymous"></script>
+
+<script src="https://cdn.usefathom.com/script.js" data-site="LBNWUNOK" defer></script>
