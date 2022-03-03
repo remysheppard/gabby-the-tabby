@@ -4,6 +4,8 @@ date: Mon, 07 Sep 2020 12:00:00 +0000
 draft: false
 categories: ['Information']
 tags: ['Laser Pointers', 'Cat Toys', 'Health Concerns', 'Playtime']
+images:
+- laser-pointer.jpg
 ---
 
 Cats have a natural need to hunt. It is one of the things that makes cats simultaneously fun and incredibly annoying at 3 in the morning. However, laser pointers cannot accurately satiate the need to hunt because the cat can never catch the dot. That's why you should not use laser pointers with your cat.
@@ -18,7 +20,7 @@ Games like this help stimulate a cat's natural hunting instincts and often are a
 
 A lot of people know and understand a cat's need to hunt and will often simulate these needs with a laser pointer.
 
-{{< image "cat-laser-pointer.gif" >}}
+![](/images/cat-laser-pointer.gif)
 
 And as cute as enjoyable as it may be to watch a cat chase a laser dot across the floor, you shouldn't use them. Now keep in mind that we aren't veterinarians, but it seems natural to us (and some Googling backed us up on this one) that laser pointers can be fun and encourage exercise and hunting, but ultimately are dangerous and can lead to more issues with your cat.
 

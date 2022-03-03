@@ -16,7 +16,7 @@
 				{{ $img = ((resources.Get "images/stand-in.jpg").Resize "x500 q85 jpg").RelPermalink }}
 			{{ end }}
 			
-			<a href="{{ .Permalink }}" class="h-96 rounded-lg flex flex-col justify-end bg-center bg-cover sm:w-1/6 my-5 md:my-0 mx-2 md:mx-0 bg-pink-900/90 shadow transition-all duration-200 hover:bg-pink-900/20 filter bg-blend-overlay" style="background-image:url('{{- $img -}}');">
+			<a href="{{ .Permalink }}" class="h-96 rounded-lg flex flex-col justify-end bg-center bg-cover sm:w-1/6 my-5 md:my-0 mx-2 md:mx-0 bg-gray-900/70 shadow transition-all duration-200 hover:bg-pink-900/30 filter bg-blend-overlay" style="background-image:url('{{- $img -}}');">
 				<span class="text-white hover:text-pink-300 px-5 py-2 text-xl text-center">
 					{{ .Title }}
 				</span>

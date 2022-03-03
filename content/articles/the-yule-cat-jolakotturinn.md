@@ -3,6 +3,13 @@ title: 'The Yule Cat - Jólakötturinn'
 date: Mon, 21 Dec 2020 13:00:00 +0000
 draft: false
 categories: ['Information']
+tags:
+- Christmas
+  cat poem
+  International cats
+  Iceland
+images:
+- yule-cat.jpg
 ---
 
 It's Christmas time and with Christmas comes great Christmas stories! There are all sorts of Christmas stories told all around the world, and one of the most interesting is from Iceland and involves _Jólakötturinn_ - literally, 'The Yule Cat'. The Yule Cat was a large and prowling creature, monstrous, who prowled around the Icelandic countryside during the night, looking for those without new raiment so he could devour them!
@@ -84,11 +91,19 @@ You may have it now in your mind to help, when it’s needed.
 
 Maybe there still are children that receive nothing at all. Maybe the search of those who live in dark homes, gives you a good day and a merry Christmas
 
-* * *
+--
 
 And of course this post wouldn't be complete without pictures of our own little Yule Cat, Gabby!
 
 The Monopoly, fireplace, and snow pictures are from the first Christmas we had Gabby. At first she was scared of fires in the fireplace because they made popping noises, but she learned that they were full of warm and for the next month or two we would find her curled up in front of the fire place during the day, and snuggled between us at night.
+
+{{< image "yule-one.jpg" Resize "500x webp q85" />}}
+
+{{< image "yule-two.jpg" Resize "500x webp q85" />}}
+
+{{< image "yule-three.jpg" Resize "500x webp q85" />}}
+
+{{< image "yule-four.jpg" Resize "500x webp q85" />}}
 
 We no longer live there, but our current home has a fireplace still, and while it isn't wood burning anymore, she still loves to snuggle in front of it!
 

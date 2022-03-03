@@ -1,0 +1,4 @@
+{{ $alt := .PlainText | safeHTML }}
+<div class="block w-full text-center center my-10">
+	<img src="{{ .Destination | safeURL }}" alt="{{ $alt }}" title="{{ $alt }}" class="mx-auto">
+</div>

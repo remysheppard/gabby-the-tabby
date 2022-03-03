@@ -1090,8 +1090,8 @@ blockquote {
   background-color: rgb(229 231 235 / var(--tw-bg-opacity));
 }
 
-.bg-pink-900\/90 {
-  background-color: rgb(131 24 67 / 0.9);
+.bg-gray-900\/70 {
+  background-color: rgb(17 24 39 / 0.7);
 }
 
 .bg-white {
@@ -1352,6 +1352,16 @@ blockquote {
   color: rgb(236 72 153 / var(--tw-text-opacity));
 }
 
+.text-rose-800 {
+  --tw-text-opacity: 1;
+  color: rgb(159 18 57 / var(--tw-text-opacity));
+}
+
+.underline {
+  -webkit-text-decoration-line: underline;
+          text-decoration-line: underline;
+}
+
 .placeholder-white::-moz-placeholder {
   --tw-placeholder-opacity: 1;
   color: rgb(255 255 255 / var(--tw-placeholder-opacity));
@@ -1471,8 +1481,8 @@ blockquote {
   background-color: rgb(156 163 175 / var(--tw-bg-opacity));
 }
 
-.hover\:bg-pink-900\/20:hover {
-  background-color: rgb(131 24 67 / 0.2);
+.hover\:bg-pink-900\/30:hover {
+  background-color: rgb(131 24 67 / 0.3);
 }
 
 .hover\:bg-rose-600:hover {
@@ -1498,6 +1508,11 @@ blockquote {
 .hover\:text-pink-400:hover {
   --tw-text-opacity: 1;
   color: rgb(244 114 182 / var(--tw-text-opacity));
+}
+
+.hover\:text-rose-600:hover {
+  --tw-text-opacity: 1;
+  color: rgb(225 29 72 / var(--tw-text-opacity));
 }
 
 .hover\:underline:hover {

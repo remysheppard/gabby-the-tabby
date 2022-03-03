@@ -3,6 +3,8 @@ title: 'Cat Night Activity Keeping You Awake?'
 date: Mon, 14 Dec 2020 13:00:58 +0000
 draft: false
 categories: ['Information']
+images:
+- cat-night-activity.jpg
 ---
 
 Every time we're asked about cat night activity, I'm reminded of the movie Gremlins. Have you ever seen the movie Gremlins? It's an eighties horror-comedy about these cute little creatures that suddenly turn into vicious monsters if you feed them after midnight.
@@ -27,7 +29,9 @@ This wouldn't be so bad except that the dresser mirror sits about an inch off th
 
 Dead asleep, and then _Bang! Bang! Bang! Bang! Bang!_
 
-![cat night activity i must run now](imustrunnow-1-300x169.png)
+{{< image "i-must-run-now.png" Resize "500x webp q85" >}}
+Gabby says, "I Must Run Now"
+{{< /image >}}
 
 The most annoying thing, though, was the _kitty racetrack._
 
@@ -61,7 +65,7 @@ Have you ever had a super stressful day at work, or an unexpected bill hit that 
 
 Your mind is racing, and you just want to sleep, but your brain won't let you.
 
-Something similar happens to your cat! Cat's need to predate ([more on that here](https://www.gabbythetabby.com/you-shouldnt-use-laser-pointers-with-your-cat/)), and if they don't get their hunt on, they start to act out.
+Something similar happens to your cat! Cat's need to predate ([more on that here](/you-shouldnt-use-laser-pointers-with-your-cat/)), and if they don't get their hunt on, they start to act out.
 
 Your cat is being a jerk at 2 am because, "Hey!! Hooman! Play!?!"
 
