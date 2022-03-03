@@ -7,7 +7,7 @@ tags: ['Information']
 
 Are you planning a road trip, an overseas vacation or a relocation to another state? Traveling with your cat is bound to be stressful for both of you. You have to carefully organize everything, from creating the itinerary to making sure your pet is safe and comfortable. By planning in advance and preparing for unexpected situations, both you and your cat will be able to travel stress-free and reach your destination safely. To come to your help, we’ve compiled a list of 7 tips that will teach you everything you need to know before embarking on a journey with your cat.
 
-![](http://www.gabbythetabby.com/wp-content/uploads/2017/10/1-1-1024x682.jpg)
+![](-1-1024x682.jpg)
 
 [Image Source](https://pixabay.com/en/cat-small-young-cute-sweet-pet-2486442/)
 
@@ -37,7 +37,7 @@ Try getting your cat accustomed to drives months before the big journey. Slowly 
 Traveling by Plane
 ------------------
 
-![](http://www.gabbythetabby.com/wp-content/uploads/2017/10/gabby-in-her-crate-e1506864354892-1-225x300.jpg)
+![](gabby-in-her-crate-e1506864354892-1-225x300.jpg)
 
 Covering long distances is faster by plane so if this is your only way of transporting your cat, you will have to thoroughly plan your journey ahead. Traveling by plane with your cat can be nerve wrecking both for the owner and the cat. If you need help with organizing everything, you can reach out to a team of professionals who will take care of all the details for your cat’s air transport.
 
@@ -53,7 +53,7 @@ Harness and Leash
 
 You might not be using a harness and a leash with your cat at the moment, but it’s worth giving it a try before traveling with them. We’re not used to seeing cats on leashes, however, they can be trained to go on walks just like dogs. Using these allows you to take frequent breaks when you’re traveling and give your cat a chance to stretch its legs.
 
-![](http://www.gabbythetabby.com/wp-content/uploads/2017/10/2-1-1024x682.jpg)
+![](-1-1024x682.jpg)
 
 [Image Source](https://pixabay.com/en/kitten-cat-cat-eyes-animal-2609312/)
 

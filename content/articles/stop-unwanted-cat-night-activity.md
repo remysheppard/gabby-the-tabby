@@ -27,7 +27,7 @@ This wouldn't be so bad except that the dresser mirror sits about an inch off th
 
 Dead asleep, and then _Bang! Bang! Bang! Bang! Bang!_
 
-![cat night activity i must run now](http://www.gabbythetabby.com/wp-content/uploads/2017/05/imustrunnow-1-300x169.png)
+![cat night activity i must run now](imustrunnow-1-300x169.png)
 
 The most annoying thing, though, was the _kitty racetrack._
 

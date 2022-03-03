@@ -1,3 +1,7 @@
+{{ with .Params.tags }}
+  {{ delimit . ", " }}
+{{ end }}
+
 <section title="subscribe" class="bg-pink-200 border border-pink-500 rounded p-4">
 	Just a test section.
 </section>

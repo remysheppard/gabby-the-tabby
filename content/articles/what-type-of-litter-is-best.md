@@ -2,13 +2,21 @@
 title: 'What Type of Litter Is Best?'
 date: Fri, 05 Feb 2021 13:00:00 +0000
 draft: false
-categories: ['Reviews']
-tags: ['best litter', 'cat litter', 'Hygiene', 'Information', 'kitty litter']
+images: 
+- what-litter-is-best.jpg
+categories:
+- Reviews
+tags: 
+- best litter
+  cat litter
+  Hygiene
+  Information
+  kitty litter
 ---
 
 If you're a cat owner, then one of your biggest headaches is a litter box. They need to be cleaned very frequently and sometimes they still manage to make the house smell like "cat".
 
-We are (obviously) cat people but neither of us can stand the 'cat smell' that a lot of cat-friendly houses have. Sometimes people can't stop their cats from spraying, but most of the time the litter is to blame here. So which cat litter is the best? For us it is the one that is_easy to clean and_ doesn'tleave that_cat smell_.
+We are (obviously) cat people but neither of us can stand the 'cat smell' that a lot of cat-friendly houses have. Sometimes people can't stop their cats from spraying, but most of the time the litter is to blame here. So which cat litter is the best? For us it is the one that is *easy to clean* and *doesn'tleave that_cat smell*.
 
 ## Should I use Clay Litter?
 
@@ -20,7 +28,7 @@ Why are clay litters terrible, you ask? Well, they are effective at clumping, th
 
 Clay litters also have the distinction of being incredibly messy and downright impossible to clean up. The fine little sand particles get everywhere and there's no getting them out. Having a clay litter box is like having all the worst parts of the beach in your home.
 
-{{< image "gabby-blep.jpg" >}}
+{{< image "gabby-blep.jpg" Resize "500x webp q85" />}}
 
 Other than that, the clay litter can get stuck in the kitty's toes, which the cat then eats as it cleans itself. Now, these are supposed to be non-toxic, but what happens when these litters get wet again? Not to mention breathing in the dust!
 
@@ -42,13 +50,13 @@ Thankfully, this litter is also very affordable. We only have to budget [about $
 
 This is easily the best clay litter we've ever encountered.
 
-[{{< image "tidy-cats-naturally-strong.jpg" >}}](https://www.dpbolvw.net/b274gv30v2IKJJMMLNKRIKNMLLJMQ?url=https%3A%2F%2Fwww.chewy.com%2Ftidy-cats-naturally-strong-unscented%2Fdp%2F290712)
+{{< image "tidy-cats-naturally-strong.jpg" Resize "500x webp q85" />}}
 
 ## Crystal Litter
 
 I have no experience with crystal litter. Just being honest. I've never really wanted to try it because it just looks uncomfortable to kitty paws. My brother had an older cat named Shadow, and they used crystal litter with her for a long time.
 
-According to him, it doesn't track out of the box as much as clay litter does. However, he complained that you could_always_smell when the cat had done its business.
+According to him, it doesn't track out of the box as much as clay litter does. However, he complained that you could _always_ smell when the cat had done its business.
 
 **Have you tried crystal litter? Let me know in the comments if you had problems with any smell or anything!**
 
@@ -66,13 +74,11 @@ Bonded pine litters are wonderful! We have tried dozens of different litter type
 
 This litter is great. It is made from real pine that has been chipped down into saw dust and then, using **just pressure**, has been pressed back together into pellet form. The pellets are large and easy to handle, and hardly track out of the box at all.
 
-
-
 [Feline Pine](https://amzn.to/3cFlYFz) smells so good! It smells like a rich pinewood forest. It smells so good that it masks most odors, and what it doesn't you can quickly hide with an air freshener ([we keep these near our litter boxes](https://amzn.to/36JsHul)).
 
 This is a non-clumping litter, so it doesn't really stick around the feces. This isn't a problem if your cat is burying their waste. Just make sure you get in there *daily* and scoop out the solid waste.
 
-[{{< image "feline-pine.jpg" >}}](https://amzn.to/3cFlYFz)
+{{< image "pine-litter.jpg" Resize "500x webp q85" />}}
 
 When it comes into contact with urine, the litter pellets absorb the urine and then break down into saw dust. Unless you get a sifting litter box ([like this one](https://amzn.to/36LmA8H)) clean up can be a bit of a chore. You should clean the saw dust out every two or three days.
 

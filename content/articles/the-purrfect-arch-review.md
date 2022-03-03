@@ -2,7 +2,16 @@
 title: 'The Purrfect Arch Review'
 date: Mon, 01 Feb 2021 13:00:00 +0000
 draft: false
-categories: ['Reviews']
+categories:
+- Reviews
+tags:
+- Purrfect Arch
+  Cat Toys
+  Broom
+  Sweep
+  Bunting
+images:
+- gabby-in-the-purrfect-arch.jpg
 ---
 
 Let me tell you a story about young Gabby....

@@ -2,12 +2,23 @@
 title: 'Does my cat like me?'
 date: Mon, 11 Jan 2021 13:00:00 +0000
 draft: false
-tags: ['Information']
+tags:
+- Cat Behavior
+  cat mom
+  fur parent
+  fur mom
+  furmom
+  furdad
+  pet parent
+categories:
+- Information
+images:
+- does-my-cat-like-me.jpg
 ---
 
 A lot of pet-parents, cat owners, and fur moms wonder if their cats like them. This is a bit trickier with cats than with dogs. Dogs feel very "on" or "off", but cats can feel very indifferent.
 
-**Just a quirk of their (seemingly) independent nature. **
+**Just a quirk of their (seemingly) independent nature.**
 
 ### So how do you know if your cat likes you?
 
@@ -19,13 +30,13 @@ Sometimes they seek out these places because they genuinely want to be alone, ot
 
 But she's also comfortable napping her little kitty bed because we established a rule in our family to not touch her when she's in her kitty bed. So even though it's in the middle of the room, she knows she's left alone there. For the most part. (Daddy sometimes breaks the rule).
 
-![Gabby The Tabby in her bed with Doggy](http://www.gabbythetabby.com/wp-content/uploads/2017/09/20170909_113602-4183204646-1505216381507-1024x1024.jpg)
+{{< image "gabby-doggy.jpg" >}}
 
 Why have you disturbed me and my doggy?
 
 But certain types of self-isolating behavior in cats isn't necessary an indicator of depression or loneliness - both of which can impact our wonderful little feline friends.
 
-After all, don't _you_ sometimes just want to be alone?
+After all, don't _you_ sometimes just want to be alone?
 
 What you need to do to determine if your cat likes you (or is happy in general) is balance self-isolating behavior against social behaviors.
 
@@ -37,7 +48,7 @@ During the day she stays in the same room as daddy does for the most part. She w
 
 At night, she will sleep on top of mommy without fail. Usually curled up somewhere nice and comfortable that ensures mommy can't get any decent rest. Like at her side or sleeping on her foot.
 
-![](https://www.gabbythetabby.com/wp-content/uploads/2017/09/20170809_132004-e1505222300356-1.jpg)
+{{< image "20170809_132004-e1505222300356-1.jpg" >}}
 
 Ah yes, this is the perfect place to nap.
 
@@ -45,7 +56,7 @@ When mommy and daddy are both home, little Gabbers needs to be exactly between t
 
 Likewise, if Gabby has squirreled herself away somewhere and hasn't been seen in a few hours, all we have to do is call her name and she will come running.
 
-Even though she doesn't necessarily like to be _bothered_ by us all the time, we know that she loves us in as much as she can, because she chooses to be _accessible_ to us.
+Even though she doesn't necessarily like to be _bothered_ by us all the time, we know that she loves us in as much as she can, because she chooses to be _accessible_ to us.
 
 If your cat cuddles with you, sleeps with you, or is content and comfortable to be near you, you can assume your cat likes you.
 
@@ -80,7 +91,7 @@ While some cats have extremely outgoing personalities and are extremely friendly
 What if my cat doesn't like me?
 -------------------------------
 
-![gabby sitting on mommy's foot](http://www.gabbythetabby.com/wp-content/uploads/2017/09/20170724_151217-1671277979-1505226704526-239x300.jpg)
+{{< image "gabby-mommy-foot.jpg" >}}
 
 When your cat wants you to know she owns you.
 

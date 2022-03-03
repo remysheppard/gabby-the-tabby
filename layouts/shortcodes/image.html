@@ -1,3 +1,21 @@
-<div class="w-full text-center mt-5 mb-10 flex items-center justify-center">
-	<img src="/images/{{ index .Params 0 }}" class="shadow-md">
-</div>
+{{ $original := resources.GetMatch (printf "images/*%s*" (.Get 0)) }}
+{{ $command := .Get 1 }}
+{{ $options := .Get 2 }}
+{{ if eq $command "Fit"}}
+{{ .Scratch.Set "image" ($original.Fit $options) }}
+{{ else if eq $command "Resize"}}
+{{ .Scratch.Set "image" ($original.Resize $options) }}
+{{ else if eq $command "Fill"}}
+{{ .Scratch.Set "image" ($original.Fill $options) }}
+{{ end }}
+{{ $image := .Scratch.Get "image" }}
+<figure class="w-full text-center mt-5 mb-10 flex flex-col items-center justify-center">
+	<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" class="rounded shadow">
+	{{ with .Inner }}
+		<figcaption>
+			<small>
+				{{ . }}
+			</small>
+		</figcaption>
+	{{ end }}
+</figure>  

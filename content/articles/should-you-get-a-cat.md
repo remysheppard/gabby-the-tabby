@@ -31,7 +31,7 @@ If I'm not going to let her rely on her instincts in the wild and instead have h
 
 If we were to adopt this other cat, I would have the same obligation to him. So the question, then, becomes: Can I provide that same standard of living for a second cat? And at that point in time in our lives, the answer was _no._
 
-![](http://www.gabbythetabby.com/wp-content/uploads/2017/03/IMG_20170102_174847-e1490207897970-1-1024x908.jpg)
+![](IMG_20170102_174847-e1490207897970-1-1024x908.jpg)
 
 Emotionally I wanted that cat, but when I considered the prospect rationally I couldn't justify it and neither could my wife, so we had to make the hard - seemingly heartless - decision to leave this animal in a cage on the hope that someone else would come by for him.
 
@@ -65,7 +65,7 @@ Finally, there was **the financial burden**. We feed our cat really well, better
 
 This isn't overly burdensome and something our income could accommodate, but we would also have to pay a second $300 deposit to our landlord for the second cat, purchase a second litter box, second bowl, litter, some extra toys, and pay the $100 adoption fee to the charity. After doing the math, our initial investment on this cat would have been over $500.
 
-![](http://www.gabbythetabby.com/wp-content/uploads/2017/03/IMG_20170102_181501-1-768x1024.jpg)
+![](IMG_20170102_181501-1-768x1024.jpg)
 
 That's a pretty big investment to make on an animal that we might have to _**return**_ in three months if he simply _isn't working out_. And yes, that is something you have to consider when you get cat. If the new addition doesn't get along in the current environment, it is best for all involved to simply return the cat.
 

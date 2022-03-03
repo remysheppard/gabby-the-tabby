@@ -11,7 +11,7 @@ We currently live in a condo and if the neighbors are moving furniture or having
 
 New people have virtually no chance at petting Gabby. At the first sign of an unfamiliar person or animal in her dwelling, she will go and do what only the bravest of kitties can do: Make sure that under the bed is really safe. You know... In case any one needs to hide under there.
 
-![](http://www.gabbythetabby.com/wp-content/uploads/2017/05/P2070013-1-1024x576.jpg)
+![](P2070013-1-1024x576.jpg)
 
 After a while she will come out of her own accord and investigate the party because she is also super curious (an odd combination in a creature: cowardice and unquenchable curiosity).
 

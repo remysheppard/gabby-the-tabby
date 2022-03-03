@@ -2,12 +2,19 @@
 title: 'Can I Feed My Cat - The Ultimate List!'
 date: Mon, 08 Feb 2021 13:00:00 +0000
 draft: false
-tags: ['featured', 'Information']
+tags: 
+- Cat Food
+  Feeding Cats
+ 	raw food
+categories: 
+- Information
+images:
+- can-i-feed-my-cat.png
 ---
 
 Super list time! Today we're going to go down a list of 60-ish commonly googled things and talk about whether or not they are safe to feed your cat. If you have something you'd like added to the list, feel free to leave it in the comments as I'm sure we'll do another food roundup list of this sort in the future.
 
-_**Disclaimer:**_ We are not vets. Every cat's diet is individual. It is **your job** as a responsible guardian for your animal to make sure that you are checking with your vet and doing thorough research before altering your cat's diet. We are not responsible for what you feed your cat, you are.
+_**Disclaimer:**_ We are not vets. Every cat's diet is individual. It is **your job** as a responsible guardian for your animal to make sure that you are checking with your vet and doing thorough research before altering your cat's diet. We are not responsible for what you feed your cat, you are.
 
 Meats
 -----
@@ -26,7 +33,7 @@ Ham should be fully cooked. Absolutely, completely, 100% cooked. And you should 
 
 For this reason, their sodium contents are off the charts, and sodium is not good for kitties. Their little kidneys can't process salts as effectively as ours, and you risk putting them into kidney failure. A little nibble on rare occasion won't hurt, but ham, bacon, and the like should not be a part of their regular diet.
 
-Likewise, **you should never feed your cat raw pork. Ever.**Pork contains a lot of pathogens and parasites and should never be fed raw to any creature, much less your cat. If someone tells you raw pork is okay for a cat to eat, they do not know what they are talking about.
+Likewise, **you should never feed your cat raw pork. Ever.**Pork contains a lot of pathogens and parasites and should never be fed raw to any creature, much less your cat. If someone tells you raw pork is okay for a cat to eat, they do not know what they are talking about.
 
 You should **never feed your cat processed ham**, like is found in sandwich meat packs. The same is true for ham type products like sausage, peperoni, salami, and other cased or packed meats.
 
@@ -98,7 +105,7 @@ Yes. See the rules for salmon above.
 Can I feed my cat KFC?
 ----------------------
 
-No. Absolutely not. Their "secret recipe" calls for quite a lot of salt, [according to this article](https://www.theguardian.com/lifeandstyle/wordofmouth/2009/jul/24/kfc-secret-recipe-revealed) probably has MSG in it, and is deep fried. Not only should you not feed your cat KFC, you should probably not eat it either.
+No. Absolutely not. Their "secret recipe" calls for quite a lot of salt, [according to this article](https://www.theguardian.com/lifeandstyle/wordofmouth/2009/jul/24/kfc-secret-recipe-revealed) probably has MSG in it, and is deep fried. Not only should you not feed your cat KFC, you should probably not eat it either.
 
 Can I feed my cat kidney?
 -------------------------
@@ -115,21 +122,21 @@ Can I feed my cat sardines?
 
 Some people swear by this and say it is absolutely fine. If you're able to find a low-sodium sardine packge, then sure. They're just small fish. But most sardines are packed in a salty brine. We would recommend avoiding.
 
-![gabby the tabby and her mommy](https://www.gabbythetabby.com/wp-content/uploads/2016/09/WP_20160911_15_22_37_Pro-e1473707385717-1024x1024.jpg)
+{{< image "gabby-sam-look.jpg" Resize "400x q85 webp" />}}
 
 Fruits & Veggies
 ----------------
 
 There is more on this list that is bad for your cat than you would expect. Because cats are obligate carnivores, quite a lot of veggies either do nothing for them or are simply bad for them to digest. Their teeth are also not designed to crush and mince.
 
-Cows and horses, for example, have flat teeth and their jaw motions are more side to side. Humans have both sharp tearing teeth, and flat grinding molars, and our jaw motions are circular. Next time your cat eats, take a look at how: Their jaws move strictly _up and down_. They tear their food, they don't mince or crush it.
+Cows and horses, for example, have flat teeth and their jaw motions are more side to side. Humans have both sharp tearing teeth, and flat grinding molars, and our jaw motions are circular. Next time your cat eats, take a look at how: Their jaws move strictly _up and down_. They tear their food, they don't mince or crush it.
 
 If you look at your kitty's back teeth, you'll see that they're also sharp teeth for tearing. So veggies can present a hazard, as your cat isn't equipped to eat them.
 
 Can I feed my cat asparagus?
 ----------------------------
 
-Yes, your cat will be fine to eat small portions of asparagus. But you should know that it doesn't contain anything nutritionally that your cat actually _needs_ so there is no point. Unless your cat just likes it, in which case it should be fine as a treat.
+Yes, your cat will be fine to eat small portions of asparagus. But you should know that it doesn't contain anything nutritionally that your cat actually _needs_ so there is no point. Unless your cat just likes it, in which case it should be fine as a treat.
 
 Can I feed my cat mashed potatoes?
 ----------------------------------
@@ -139,7 +146,7 @@ Potatoes are probably too starch heavy for a cat. Starches and heavy carbs are r
 Can I feed my cat pumpkin?
 --------------------------
 
-Yes. Absolutely. Pumpkin is actually pretty good for cats' coats and helps _lubricate_ their digestive tracts.
+Yes. Absolutely. Pumpkin is actually pretty good for cats' coats and helps _lubricate_ their digestive tracts.
 
 Can I feed my cat nuts?
 -----------------------
@@ -149,7 +156,7 @@ No. You cannot feed your cats nuts. Not only do they not have any health benefit
 Can I feed my cat avocado?
 --------------------------
 
-Avocado contains a toxin called "persin" that most humans are fine to absorb or expel, but which has proven fatal to many animals. Most dogs and cats do not seem to have any adverse reaction to persin, but some breeds have succumb to poising by the substance, so you should be _extremely_ cautious. We would avoid this one.
+Avocado contains a toxin called "persin" that most humans are fine to absorb or expel, but which has proven fatal to many animals. Most dogs and cats do not seem to have any adverse reaction to persin, but some breeds have succumb to poising by the substance, so you should be _extremely_ cautious. We would avoid this one.
 
 Can I feed my cat watermelon?
 -----------------------------
@@ -186,9 +193,9 @@ Can I feed my cat kale?
 
 Yes. Absolutely. Kale is rare from other vegetables in that it has a lot in it that your cat actually needs on a nutritional level. Leafy greens that grow above ground, in general, are fine for cats because the cat would have access to eat them on their own. Kale, if you've ever seen it growing, is like a bush. Your cat should be just fine to eat it.
 
-![Gabby The Tabby Surveying Her Kingdom](https://www.gabbythetabby.com/wp-content/uploads/2016/09/WP_20160910_22_39_55_Pro-e1473708552772-685x1024.jpg)
-
+{{< image "behold-my-pretties.jpg" Resize "400x q85 webp" >}}
 "Behold my pretties."
+{{< /image >}}
 
 Misc
 ----
@@ -265,7 +272,7 @@ Can I feed my cat dog treats?
 
 Much like dog food, this answer is a sliding scale. There are dog treats in our local pet shop that are literally just pieces of raw chicken diced and freeze dried.
 
-No additives, no preservatives, just diced, freeze dried chicken. They're labeled as dog treats, but even _I_ could eat them, because it's literally _just chicken_. So these kinds of "treats", yes. Actual dog treats? Probably not.
+No additives, no preservatives, just diced, freeze dried chicken. They're labeled as dog treats, but even _I_ could eat them, because it's literally _just chicken_. So these kinds of "treats", yes. Actual dog treats? Probably not.
 
 Can I feed my cat almond milk?
 ------------------------------
@@ -295,7 +302,7 @@ Can I feed my adult cat kitten chow?
 Can I feed my cat vanilla ice cream?
 ------------------------------------
 
-No. This has both milk and sugar, neither of which are easy for your cat to process. A  little lick probably won't hurt anything, but this is not a suitable snack or food.
+No. This has both milk and sugar, neither of which are easy for your cat to process. A  little lick probably won't hurt anything, but this is not a suitable snack or food.
 
 Can I feed my cat graham crackers
 ---------------------------------
@@ -312,13 +319,13 @@ Can you feed your cat any kind of old meat, expired meat, or old or expired food
 Can I feed my cat only chicken?
 -------------------------------
 
-It is a bad idea to feed your cat _only_ one type of food, be it dry food, or wet food, or even just the same food over and over. Cats can easily develop food allergies. Try and mix it up a bit.
+It is a bad idea to feed your cat _only_ one type of food, be it dry food, or wet food, or even just the same food over and over. Cats can easily develop food allergies. Try and mix it up a bit.
 
 The best diet for your cat is going to be a raw diet or prey diet. We'll get a post on those coming, but in the mean time, if you do dry food, throw in a can of wet once a week. If you do wet food, mix it up with flavors and meats.
 
 Can I feed my cat a vegetarian diet?
 ------------------------------------
 
-No, and you should not try. Cats are what are known as _obligate __carnivores_. If left on their own in the wild, they would hunt and eat **meat**. Mice, small birds, snakes, etc. Your cat absolutely needs meat. Feeding your cat a vegetarian diet can be harmful and dangerous. Do not do it. You can literally kill your cat this way.
+No, and you should not try. Cats are what are known as _obligate carnivores_. If left on their own in the wild, they would hunt and eat **meat**. Mice, small birds, snakes, etc. Your cat absolutely needs meat. Feeding your cat a vegetarian diet can be harmful and dangerous. Do not do it. You can literally kill your cat this way.
 
-_Well that will do it! Leave us a comment below if you have anything to add or any insight on the things listed! We don't know everything and we haven't experienced everything, but we tried to make this list as accurate as possible. _
+_Well that will do it! Leave us a comment below if you have anything to add or any insight on the things listed! We don't know everything and we haven't experienced everything, but we tried to make this list as accurate as possible. _

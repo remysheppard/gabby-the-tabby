@@ -2,7 +2,16 @@
 title: 'Cat throwing up after eating'
 date: Mon, 28 Dec 2020 13:00:00 +0000
 draft: false
-tags: ['cat', 'cat eats fast', 'cat food', 'fast eating', 'feeding cat', 'Information']
+tags:
+- cat
+  cat eats fast
+  cat food
+  fast eating
+  feeding cat
+categories:
+- Information
+images:
+- cat-eats-too-fast.jpg
 ---
 
 If your cat throws up after it eats, you should take it to the vet, just to be safe. But a lot of times, throwing up after eating is simply a result of eating too much too quickly. Eating quickly is less common in cats that have food left out 24/7, and less common in single cat homes. However, even these cats may eat too fast depending on their personality.
@@ -10,9 +19,9 @@ If your cat throws up after it eats, you should take it to the vet, just to be s
 Why does eating fast make my pet throw up?
 ------------------------------------------
 
-Eating fast makes your pet throw up because, quite simply, they are a quadrupedal animal. Unlike you, they do not walk upright. Because of this, their esophageal tract is mostly _parallel _with the ground. When they eat too fast, their _esophageal sphincter doesn't_ have enough time to let food into their stomach, or often their stomach will be full while they're still eating (like an angled pocket, it can only be so full).
+Eating fast makes your pet throw up because, quite simply, they are a quadrupedal animal. Unlike you, they do not walk upright. Because of this, their esophageal tract is mostly _parallel _with the ground. When they eat too fast, their _esophageal sphincter doesn't_ have enough time to let food into their stomach, or often their stomach will be full while they're still eating (like an angled pocket, it can only be so full).
 
-![8a47b7a76d1702bdf488ca6fbc7c264d](http://www.gabbythetabby.com/wp-content/uploads/2016/04/8a47b7a76d1702bdf488ca6fbc7c264d-1.jpg)
+![8a47b7a76d1702bdf488ca6fbc7c264d](a47b7a76d1702bdf488ca6fbc7c264d-1.jpg)
 
 Cats, like most animals, are incredibly self-contained and self-maintaining creatures. They often don't need much in the way of intelligent intervention, as instinct and physiology will take over. In a situation like we're describing, where the animal has eaten too much, the cat's body will instinctively recognize that it has ingested too much food and doesn't have a use for it all. The natural result of this is regurgitation.
 
@@ -25,13 +34,13 @@ How to Slow Down Eating
 
 In multi-cat and multi-pet homes cats will eat too fast so that they can make sure to eat all their food before another animal comes along and decides to eat it for them! **You can slow down each animal's eating by simply isolating them for 20 to 30 minutes to let them eat alone and in peace.**
 
-Another solution deals directly with their esophageal tract. Because most people place their cat's food right on the floor, the cat must lean over to eat. Look at that diagram up there and you'll see that this straightens out what little bend there is in the esophagus, exacerbating the problem! **Try raising your cat's food bowl about an inch off the ground to aid digestion!**
+Another solution deals directly with their esophageal tract. Because most people place their cat's food right on the floor, the cat must lean over to eat. Look at that diagram up there and you'll see that this straightens out what little bend there is in the esophagus, exacerbating the problem! **Try raising your cat's food bowl about an inch off the ground to aid digestion!**
 
-If that doesn't work, then make it tricky for them to eat the food. Forcing them to _think_ will slow down eating significantly. You can do this by putting a **clean** ping pong ball, marble, or something similar in their bowl. **The cat will have to navigate the obstacle to eat which means it will be eating much slower. **
+If that doesn't work, then make it tricky for them to eat the food. Forcing them to _think_ will slow down eating significantly. You can do this by putting a **clean** ping pong ball, marble, or something similar in their bowl. **The cat will have to navigate the obstacle to eat which means it will be eating much slower.**
 
 For Ms. Gabby we use a clean piece of soap stone that we got in a soap stone cube set hubby uses to ice down his drinks\]:
 
-[![My cat eats too fast!](http://www.gabbythetabby.com/wp-content/uploads/2016/04/cat-eats-fast-solution-1.jpg)](http://amzn.to/1Skul8v)
+[![My cat eats too fast!](cat-eats-fast-solution-1.jpg)](http://amzn.to/1Skul8v)
 
 Simple Solution to a fast eating cat!
 
@@ -48,4 +57,4 @@ Slow feed bowls are widely available on Amazon and are designed to make your cat
 
 \[asa\_collection\]Slow\_Feed\_Bowls\[/asa\_collection\]
 
-I hope this helps you! I know we spent _forever_ researching, testing, and trying solutions to our cat's frequent vomit problem.
+I hope this helps you! I know we spent _forever_ researching, testing, and trying solutions to our cat's frequent vomit problem.

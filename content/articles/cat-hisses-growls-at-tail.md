@@ -9,7 +9,7 @@ A cat chasing its tail is usually just playful and fun. In very rare instances a
 
 Sometimes you watch your cat chase its tail and you wonder to yourself, "Like, it knows that that thing is a part of its body, right?" It is a concern that any pet parent has when they see their cat seemingly viciously attack a part of its own body!
 
-[![img_20161213_102121](http://www.gabbythetabby.com/wp-content/uploads/2016/12/IMG_20161213_102121-1-768x1024.jpg)](http://amzn.to/2hJelOz)
+[![img_20161213_102121](IMG_20161213_102121-1-768x1024.jpg)](http://amzn.to/2hJelOz)
 
 With Gabby this was a genuine concern for us when she was a kitten because, a part from her little chin, the only white that Gabby has on her entire body is on the very tippy-tip of her little white-tipped tail.
 

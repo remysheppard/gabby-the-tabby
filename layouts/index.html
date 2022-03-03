@@ -1,18 +1,27 @@
 {{ define "main"}}
 
-{{ $paginator := (.Paginate (after 6 (where site.RegularPages "Section" "eq" "articles"))).Pages }}
+{{ $paginator := (.Paginate (after 5 (where site.RegularPages "Section" "eq" "articles"))).Pages }}
 
 	<div class="flex flex-col sm:flex-row justify-evenly container-break" style="max-width:98vw">
 		{{ range $index, $element := first 5 (where site.RegularPages "Section" "eq" "articles") }}
 			
-			{{ $img := ((resources.Get "images/stand-in.jpg").Resize "x500 q85 jpg").RelPermalink }}
+			{{ $img := "" }}
+			{{ with .Params.images }}
+				{{ range first 1 . }}
+					{{ $resource := printf ("images/%s") . }}
+
+					{{ $img = ((resources.Get $resource).Resize "x500 q85 jpg").RelPermalink }}
+				{{ end }}
+			{{ else }}
+				{{ $img = ((resources.Get "images/stand-in.jpg").Resize "x500 q85 jpg").RelPermalink }}
+			{{ end }}
 			
-			<a href="{{ .Permalink }}" class="h-96 rounded-lg flex flex-col justify-end bg-center bg-cover sm:w-1/6 my-5 md:my-0 mx-2 md:mx-0 bg-black bg-opacity-50 shadow transition-all duration-200 hover:bg-opacity-25 filter bg-blend-overlay" style="background-image:url('{{- $img -}}');">
+			<a href="{{ .Permalink }}" class="h-96 rounded-lg flex flex-col justify-end bg-center bg-cover sm:w-1/6 my-5 md:my-0 mx-2 md:mx-0 bg-pink-900/90 shadow transition-all duration-200 hover:bg-pink-900/20 filter bg-blend-overlay" style="background-image:url('{{- $img -}}');">
 				<span class="text-white hover:text-pink-300 px-5 py-2 text-xl text-center">
 					{{ .Title }}
 				</span>
-				<hr class="border-t border-gray-600 w-1/2 mx-auto">
-				<span class="py-2 text-center text-gray-400 text-sm">
+				<hr class="border-t border-pink-200 w-1/2 mx-auto">
+				<span class="py-2 text-center text-pink-100 text-sm">
 					{{ .Date.Format "January 02, 2006" }}
 				</span>
 			</a>
@@ -36,7 +45,7 @@
 		        </div>
 		        
 		        <div class="flex items-center justify-between mt-4">
-		            <a href="{{ .Permalink }}" class="text-pink-600  hover:underline">Read more</a>
+		            <a href="{{ .Permalink }}" class="text-pink-600  hover:underline"><i class="fa-light fa-cat"></i>&nbsp;Read more</a>
 
 		            <div class="flex items-center">
 		                <img class="hidden object-cover w-10 h-10 mx-4 rounded-full sm:block" src='{{ (( resources.Get "images/avatar.jpg" ).Fill "125x125 q65 webp").RelPermalink }}' alt="avatar">

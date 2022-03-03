@@ -2,7 +2,10 @@
 title: 5 Indicators of Your Cat's Mood
 date: Mon, 19 Oct 2020 12:00:00 +0000
 draft: false
-tags: ['Information']
+categories:
+- Information
+images:
+- gabby-on-pants.jpg
 ---
 
 Cats are weird, funny, and adorable little creatures, aren't they? One of the most rewarding parts of being a cat owner is that funny little language you end up speaking with your cat, and the cute little games you develop together.

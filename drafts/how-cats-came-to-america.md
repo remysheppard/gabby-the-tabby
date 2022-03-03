@@ -5,21 +5,21 @@ draft: true
 tags: ['Information']
 ---
 
-Cats have been wonderful and incredibly useful companions throughout human history. It's assumed that cats were originally domesticated some 10,000 years ago in the middle east.
+Cats have been wonderful and incredibly useful companions throughout human history. It's assumed that cats were originally domesticated some 10,000 years ago in the middle east.
 
 Obviously, people point to Egypt as a prime example of cats invading popular culture, but we've found even older examples of domestic house cats.
 
 Folks quickly realized that cats were very adept at hunting rodents, birds, and snakes. This is very handy because rodents in particular have a habit of sneaking into places unnoticed and then destroying them through chewing, burrowing, and waste. This is problematic on ships especially, where food is limited and holes are generally seen as counter-productive.
 
-That is why the Egyptians had the bright idea to have a _ship's cat_ - a job on a trading or exploration vessel that is exclusive to the kitty cat. Egyptians would keep cats on their trading ships to help control rodent population and even hunt birds.
+That is why the Egyptians had the bright idea to have a _ship's cat_ - a job on a trading or exploration vessel that is exclusive to the kitty cat. Egyptians would keep cats on their trading ships to help control rodent population and even hunt birds.
 
 This practice is single-handedly responsible for cats being domesticated around the world.
 
 Cats are curious and love to "escape" and explore. It's not a leap to think that on a trading voyage, a cat or two may escape at a port and go sow their seed in a new land.
 
-Not to mention, other sailors and merchants would see the practice of a _Ship's Cat_ and trade for a few cats for themselves and their ships. And so, you have cats that, through merchant ships, have spread across the world!
+Not to mention, other sailors and merchants would see the practice of a _Ship's Cat_ and trade for a few cats for themselves and their ships. And so, you have cats that, through merchant ships, have spread across the world!
 
-_**Fun Fact: **Orange haired tabby cats were bred first by Vikings who thought the coat color was entertaining for an animal, as it prevented any real camouflage. It was through their trading and exploration vessels that the orange tabby was spread around the world - notably North America where they are... plentiful. _
+***Fun Fact:** Orange haired tabby cats were bred first by Vikings who thought the coat color was entertaining for an animal, as it prevented any real camouflage. It was through their trading and exploration vessels that the orange tabby was spread around the world - notably North America where they are... plentiful.*
 
 When settlers came to the United States, they brought many cats on board their ships with them. The cats were particularly good at ferreting out rodents during the long trip and keeping the food safe.
 

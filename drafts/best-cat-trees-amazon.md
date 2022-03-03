@@ -1,24 +1,32 @@
 ---
 title: '5 Awesome Cat Trees (You Can Get On Amazon)'
 date: Mon, 18 Jan 2021 13:00:00 +0000
-draft: false
-tags: ['Information']
+draft: true
+tags: 
+- informational
+  cat trees
+  playhouse
+  catify to satisfy
+categories:
+- Reviews
+images:
+- amazon-cat-tree.jpg
 ---
 
 If you own a cat then you know that everything in your home is an object to be climbed upon, pawed at, and otherwise rubbed by your [feline housemates](https://www.gabbythetabby.com/cat-think-im-mom-dad/). That is what makes Cat Trees so indispensable to a cat owner! Imagine: A piece of furniture in your home for your cat. It serves no purpose other than to be climbed on, clawed at, and headbutted.
 
-We are huge fans of **Cat Trees** here at Gabby The Tabby! That's why we have put together a list of the **9 Best Cat Trees Amazon Has to Offer** for you here today. Disclaimer: We haven't purchased all of these ourselves. We did, however, make sure to only choose cat trees that had plenty of high reviews.
+We are huge fans of **Cat Trees** here at Gabby The Tabby! That's why we have put together a list of the **9 Best Cat Trees Amazon Has to Offer** for you here today. Disclaimer: We haven't purchased all of these ourselves. We did, however, make sure to only choose cat trees that had plenty of high reviews.
 
 The Sebastian Modern Cat Tree (in Black)
 ----------------------------------------
 
 ![](https://www.gabbythetabby.com/wp-content/uploads/2017/10/41oN7x7mCHL.jpg)
 
- We love everything about these cat trees. It has a sleek and modern design, and you can use it as an actual shelf if you need.
+ We love everything about these cat trees. It has a sleek and modern design, and you can use it as an actual shelf if you need.
 
 The low-key, modern style of this tree compliment your home. And your cats will love to climb on it. It has carpeted and scratching areas designed for them to dig their little claws into. This makes the tree easier for them to jump and climb up on.
 
-While the straight on picture doesn't show it off too well, the **Sebastian Modern Cat Tree** has staggered depths on each layer, so you cat will be able to climb all the way to the very tippy-top with ease.
+While the straight on picture doesn't show it off too well, the **Sebastian Modern Cat Tree** has staggered depths on each layer, so you cat will be able to climb all the way to the very tippy-top with ease.
 
 We know that every cat loves to find little hideaways and nooks to explore. This cat tree delivers just that! Plenty of little hideaways and cubbies for your furbaby.
 
@@ -35,7 +43,7 @@ The good folks over at CatistrophiCreations have created an amazing cat tree. Th
 
 It is such a beautiful idea. We like that it takes a concept that cat owners have dreamed about for years and made it easily accessible. Now you can turn your house into an urban cat jungle!
 
-While not the lowest cost option on this list, the Deluxe Wall Mounted Play place delivers a high quality, hand crafted cat tree that will give your kitty a whole new world to explore.
+While not the lowest cost option on this list, the Deluxe Wall Mounted Play place delivers a high quality, hand crafted cat tree that will give your kitty a whole new world to explore.
 
 These are all manufactured by hand in the United States. You can know that every piece of this cat tree will be high quality and durable. These are made to last you and your kitties for years and years.
 
@@ -54,7 +62,7 @@ The very top of the tree is a comfortable perch that is perfect for lounging and
 
 The [Armarkat 57" Cat Tree](https://amzn.to/3pQ10Hz) also has a nice little alcove with two entrances where your cat can nap safely away from other cats, loud noises, or anything else that may disturb them.
 
-This tree features a nice rope toy for active and engaging play and sisal covered support posts to encourage healthy scratching. [All the surfaces of the Armarkat are carpeted](https://amzn.to/3pQ10Hz) so that they are soft on your kitty's paws and are safe and easy to climb.
+This tree features a nice rope toy for active and engaging play and sisal covered support posts to encourage healthy scratching. [All the surfaces of the Armarkat are carpeted](https://amzn.to/3pQ10Hz) so that they are soft on your kitty's paws and are safe and easy to climb.
 
 If you're looking for a classic cat tree for your little city-lion, [this is the one](https://amzn.to/3pQ10Hz).
 

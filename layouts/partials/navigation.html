@@ -17,7 +17,7 @@
 		<div class="mr-5 ml-auto border-r border-gray-300 pr-5 sm:flex flex-row hidden">
 			{{- range .Site.Menus.social -}}
 				<a href="{{ .URL }}" class="text-{{ .Identifier }} hover:text-pink-400 ml-3">
-					{{ .Pre }}
+					<i class="fa-brands fa-{{ .Pre }} fa-lg fa-fw"></i>
 				</a>
 			{{- end -}}
 		</div>

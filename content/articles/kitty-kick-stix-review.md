@@ -2,10 +2,19 @@
 title: 'Kitty Kick Stix: The Real Truth - Review'
 date: Mon, 04 Jan 2021 13:00:00 +0000
 draft: false
-tags: ['cat toy', 'kitty kick stix', 'kittykickstix', 'Reviews', 'the original kitty kick stix', 'toy reviews']
+tags:
+- cat toy
+  kitty kick stix
+  kittykickstix
+  the original kitty kick stix
+  toy reviews
+categories:
+- Reviews
+images:
+- kittykickstix-review-cover.jpg
 ---
 
-[![Gabby loves her Kitty Kick Stix](http://www.gabbythetabby.com/wp-content/uploads/2017/10/kittykickstix-12-1-300x225.jpg)](https://shareasale.com/r.cfm?b=998244&u=1295391&m=36868&urllink=&afftrack=0)
+[![Gabby loves her Kitty Kick Stix](kittykickstix-12-1-300x225.jpg)](https://shareasale.com/r.cfm?b=998244&u=1295391&m=36868&urllink=&afftrack=0)
 
 We were recently browsing the internet when we stumbled upon what looked to be a very promising cat toy. Simple enough, the toy was called "[The Original Kitty Kick Stix](https://shareasale.com/r.cfm?b=998244&u=1295391&m=36868&urllink=&afftrack=0)" and promised hours of entertaining fun for us and our cat. We gave it a shot even though the item is a fabric log. It might be worth it.
 
@@ -13,22 +22,22 @@ If you're a cat person and have been browsing the internet it is possible that y
 
 ### Why did we get a Kitty Kick Stix?
 
-[![Gabby playing with a Kitty Kick Stix](http://www.gabbythetabby.com/wp-content/uploads/2017/10/kittykickstix-4-1-300x225.jpg)](https://shareasale.com/r.cfm?b=998244&u=1295391&m=36868&urllink=&afftrack=0)
+[![Gabby playing with a Kitty Kick Stix](kittykickstix-4-1-300x225.jpg)](https://shareasale.com/r.cfm?b=998244&u=1295391&m=36868&urllink=&afftrack=0)
 
-There is a game we play with Gabby that we affectionately call _Smuuuuuuussshhhh!!!_
+There is a game we play with Gabby that we affectionately call _Smuuuuuuussshhhh!!!_
 
-During a game of _Smush_ either mommy or daddy will hold on to something and then use a foot to step on The Gabbler while saying the word "smush". Gabby will use her front paws to hold on to your foot. Then she will use her back paws to _kicky-kick-kick_ at your foot.
+During a game of _Smush_ either mommy or daddy will hold on to something and then use a foot to step on The Gabbler while saying the word "smush". Gabby will use her front paws to hold on to your foot. Then she will use her back paws to _kicky-kick-kick_ at your foot.
 
 It is super cute, and she absolutely loves it. She's always loved it. She's weird, cats are weird.
 
-So, when we saw this thing online, it was immediately something we wanted to get. It was like her own personal _Smush_ that she could play with at any time. We ordered one from their website.
+So, when we saw this thing online, it was immediately something we wanted to get. It was like her own personal _Smush_ that she could play with at any time. We ordered one from their website.
 
 Are the Original Kitty Kick Stix Quality?
 -----------------------------------------
 
-[![Kicking the original Kitty Kick Stix](http://www.gabbythetabby.com/wp-content/uploads/2017/10/kittykickstix-5-1-300x225.jpg)](https://shareasale.com/r.cfm?b=998244&u=1295391&m=36868&urllink=&afftrack=0)
+[![Kicking the original Kitty Kick Stix](kittykickstix-5-1-300x225.jpg)](https://shareasale.com/r.cfm?b=998244&u=1295391&m=36868&urllink=&afftrack=0)
 
-[**Kitty Kick Stix**](https://shareasale.com/r.cfm?b=998244&u=1295391&m=36868&urllink=&afftrack=0) advertise their product as _handmade to order in the United States_. This would imply that a certain amount of quality and care go into each, individual order. **We have found this to be true.**
+[**Kitty Kick Stix**](https://shareasale.com/r.cfm?b=998244&u=1295391&m=36868&urllink=&afftrack=0) advertise their product as _handmade to order in the United States_. This would imply that a certain amount of quality and care go into each, individual order. **We have found this to be true.**
 
 The item we received was made exactly as advertised, at roughly 15 inches in length and with the leopard print we had wanted. the fabric itself is very thick and durable. Gabby has used the toy for several hours each day over the course of the first few weeks we had it.
 
@@ -38,17 +47,17 @@ It is incredibly durable, and the fabric they use is very, very thick. I had a f
 
 ### Incredible, Fresh Catnip
 
-[![Kitty Kick Stix](http://www.gabbythetabby.com/wp-content/uploads/2017/10/kittykickstix-3-1-300x225.jpg)](https://shareasale.com/r.cfm?b=998244&u=1295391&m=36868&urllink=&afftrack=0)
+[![Kitty Kick Stix](kittykickstix-3-1-300x225.jpg)](https://shareasale.com/r.cfm?b=998244&u=1295391&m=36868&urllink=&afftrack=0)
 
 It has catnip. Can you tell?
 
-The [Kick Stick](https://shareasale.com/r.cfm?b=998244&u=1295391&m=36868&urllink=&afftrack=0) also full of completely natural, organic, and fresh catnip at one end. Now here's the thing about this: Gabby is a part of the (roughly) 40% of cats who _do not _respond to catnip. We have used catnip on and in various products for years and she just _does not care_.
+The [Kick Stick](https://shareasale.com/r.cfm?b=998244&u=1295391&m=36868&urllink=&afftrack=0) also full of completely natural, organic, and fresh catnip at one end. Now here's the thing about this: Gabby is a part of the (roughly) 40% of cats who _do not _respond to catnip. We have used catnip on and in various products for years and she just _does not care_.
 
-In fact, Gabby is a part of an even smaller group of cats who respond to _[Chlorine Bleach](https://www.floppycats.com/why-do-cats-like-bleach.html) _in the same way that other cats respond to catnip. She's a bleach cat.
+In fact, Gabby is a part of an even smaller group of cats who respond to [Chlorine Bleach](https://www.floppycats.com/why-do-cats-like-bleach.html) *in the same way that other cats respond to catnip. She's a bleach cat.*
 
 But let me tell you, this catnip that's packed into the Kitty Kick Stix must be some fresh off the vine catnip because gabby went nuts for it immediately. In fact, we barely had the package open before she started bunting and loving on it.
 
-[![Gabby loved her Kitty Kick Stix](http://www.gabbythetabby.com/wp-content/uploads/2017/10/kittykickstix-2-1.jpg)](https://shareasale.com/r.cfm?b=998244&u=1295391&m=36868&urllink=&afftrack=0)
+[![Gabby loved her Kitty Kick Stix](kittykickstix-2-1.jpg)](https://shareasale.com/r.cfm?b=998244&u=1295391&m=36868&urllink=&afftrack=0)
 
 I love this
 
@@ -59,9 +68,9 @@ Other than that, it is an incredible product.
 How much does it cost?
 ----------------------
 
-[![How the Kitty Kick Stix arrived](http://www.gabbythetabby.com/wp-content/uploads/2017/10/kittykickstix-1-1-300x225.jpg)](https://shareasale.com/r.cfm?b=998244&u=1295391&m=36868&urllink=&afftrack=0)
+[![How the Kitty Kick Stix arrived](kittykickstix-1-1-300x225.jpg)](https://shareasale.com/r.cfm?b=998244&u=1295391&m=36868&urllink=&afftrack=0)
 
-Our **[Original 15" Kitty Kick Stix](https://shareasale.com/r.cfm?b=998244&u=1295391&m=36868&urllink=&afftrack=0)**cost us about $11.95 plus shipping. We decided to choose the expedited shipping option for $7. Our Kitty Kick Stix package arrived in our mailbox very shortly after!
+Our **[Original 15" Kitty Kick Stix](https://shareasale.com/r.cfm?b=998244&u=1295391&m=36868&urllink=&afftrack=0)**cost us about $11.95 plus shipping. We decided to choose the expedited shipping option for $7. Our Kitty Kick Stix package arrived in our mailbox very shortly after!
 
 The Kitty Kick Stix folks gave us a receipt via email immediately after ordering the product. They also sent emails at every step of the process. We received an email when the build started. They sent us another at shipping. And we received one more on delivery.
 
@@ -80,7 +89,7 @@ Gabby is all over this thing. It's awesome to watch her! She'll pounce on it and
 
 We figure this is the closest she'll get to hunting snakes because she's an indoor only cat.
 
-It is so much fun to watch her, though. She will lay down next to it, and waller around on the floor (as is her wont). Eventually she'll roll over and act surprised that her Kitty Kick Stix is sitting there and will _viciously_ attack it.
+It is so much fun to watch her, though. She will lay down next to it, and waller around on the floor (as is her wont). Eventually she'll roll over and act surprised that her Kitty Kick Stix is sitting there and will _viciously_ attack it.
 
 Where to buy a Kitty Kick Stix
 ------------------------------

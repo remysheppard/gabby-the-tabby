@@ -56,22 +56,22 @@ menu:
     name: YouTube
     url: 'https://www.youtube.com/channel/UCiIqBLPEh8JDbr05X8mKa_g'
     weight: 1
-    pre: <i class="fa-brands fa-youtube fa-fw"></i>
+    pre: youtube
 
   - identifier: twitter
     name: Twitter
     url: 'https://twitter.com/therealgabbycat'
     weight: 4
-    pre: <i class="fa-brands fa-twitter fa-fw"></i>
+    pre: twitter
 
   - identifier: instagram
     name: Instagram
     url: 'https://www.instagram.com/gabby.the.tabby/'
     weight: 2
-    pre: <i class="fa-brands fa-instagram fa-fw"></i>
+    pre: instagram
 
   - identifier: facebook
     name: Facebook
     url: 'https://www.facebook.com/gabbythetabbyofficial'
     weight: 3
-    pre: <i class="fa-brands fa-facebook fa-fw"></i>
+    pre: facebook

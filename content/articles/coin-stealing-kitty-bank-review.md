@@ -2,7 +2,15 @@
 title: 'Coin Stealing Kitty Bank - Review'
 date: Mon, 14 Sep 2020 12:00:00 +0000
 draft: false
-tags: ['Reviews']
+tags:
+- Piggy Bank
+  Coin stealing kitty bank
+  Cute Cat Stuff
+  Japanese Cat Products
+categories:
+- Reviews
+images:
+- itazura-coin-stealing-kitty-piggy-bank-review.jpg
 ---
 
 So I recently got my wife the world's cutest gift: [Stealing Coin Cat Piggy Bank](https://amzn.to/32muZOf). This thing has been taking the internet by storm, and after doing a bit of research on it, I decided that we should absolutely own one.
@@ -19,7 +27,7 @@ The [Mischief Bank](https://amzn.to/32muZOf) is a cute little piggy bank that wo
 
 The product itself is high quality for its purpose. The kitty inside is well painted - a common problem with knock offs is that they aren't. A real kitty bank will have attention to detail - the nose is painted, the eyes, the undersides of the paw on the little pads. The animatronics are quality as well, running quieter than it seems on the videos of the products. The mechanics don't tend to get hung up, though sometimes you have to shake it a little to get the coins into the holding bin.
 
-[![IMG_20160816_155432](http://www.gabbythetabby.com/wp-content/uploads/2016/08/IMG_20160816_155432-1-300x225.jpg)](http://amzn.to/2bliM2N)
+[![IMG_20160816_155432](IMG_20160816_155432-1-300x225.jpg)](http://amzn.to/2bliM2N)
 
 Also, once inside, the coins are very easily retrievable! You just unscrew a cap on the underside of the bank and shake out your coins. There is an on / off switch on the bottom, I recommend you turn the box _off_ before emptying the coins. As you'll see in the video, we did not and as my wife opened the slot on the bottom, she accidentally pressed the button on the top.
 
@@ -27,7 +35,7 @@ The one thing that surprised me about the bank was how small it was. I knew it w
 
 [The Coin Stealing Kitty Coin Bank](https://amzn.to/32muZOf) is such a cute little novelty item and it does exactly as it was designed to do. We love it!
 
-[![IMG_20160816_155439](http://www.gabbythetabby.com/wp-content/uploads/2016/08/IMG_20160816_155439-1-1024x768.jpg)](http://amzn.to/2aZAE1X)
+[![IMG_20160816_155439](IMG_20160816_155439-1-1024x768.jpg)](http://amzn.to/2aZAE1X)
 
 ### Finding The "Kitty Bank"
 

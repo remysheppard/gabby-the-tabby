@@ -2,7 +2,15 @@
 title: 'Is your bank account safe from unexpected pet costs?'
 date: Mon, 25 Jan 2021 13:00:00 +0000
 draft: false
-tags: ['Information']
+tags: 
+- Information
+  Review
+  Pet Insurance
+  Cat Health Insurance
+categories:
+- Information
+images:
+- vet-piggy-bank.jpg
 ---
 
 Have you considered **pet insurance**? As a cat parent there is nothing in this world you wouldn’t do for your fur baby when it sick or injured. Imagine when it does happen. Your cat is using the bathroom outside of the litter box. You think it might be a urinary tract infection, so you rush your kitty to the vet.
