@@ -6,6 +6,8 @@
 	<main class="my-10 flex flex-col sm:flex-row">
 		<section class="w-full flex flex-wrap sm:w-4/6 px-5 text-lg sm:text-xl">
 			{{ .Content }}
+
+			{{ partial "welcomments/comments" (dict "context" . "websiteId" "fu8AyzXYoEMZV5gaqxnRCstLG" ) }}
 		</section>
 
 		<aside class="flex flex-col h-full w-full sm:w-2/6 px-5">
