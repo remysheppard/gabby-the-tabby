@@ -1,6 +1,7 @@
 baseURL: https://gabby-the-tabby.netlify.app/
 languageCode: en-us
 title: Gabby The Tabby
+env: development
 
 summaryLength: 30
 paginate: 6
