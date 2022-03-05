@@ -29,7 +29,7 @@ Cats, as wonderful as they are, are absolutely the worst about having unexpected
 
 Your outdoor cat can get in a fight and get an infected wound, your indoor baby can be dehydrated and start to experience kidney problems. While all of this is treatable at most every stage, it can be prohibitively expensive, running into the thousands.
 
-![](https://www.gabbythetabby.com/wp-content/uploads/2017/09/400x400-1.png)
+{{< image "mommy-looking-at-gabby.png" Resize "350x q85 webp" />}}
 
 ### How does pet insurance work?
 
@@ -54,8 +54,6 @@ Obviously, the younger you start with your cat, the cheaper your premium will be
 Just like in human insurance, these restrictions on pet insurance help to keep costs low.
 
 Unlike human insurance, however, pet insurance usually has an unlimited payout cap. Because they aren't wasting money on routine visits and procedures such as a spay, they are able to save their money for when it counts - like cancer, or a serious accident.
-
-[![www.petassure.com](https://www.lduhtrp.net/hs97r6Az42OQPPSSRTQXOQSYWVYWQ)](https://www.jdoqocy.com/gh116p-85-7NPOORRQSPWNPRXVUXVP)  
 
 ### In Conclusion
 

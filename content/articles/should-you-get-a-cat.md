@@ -3,13 +3,19 @@ title: 'Should You Get A Cat?'
 date: Mon, 05 Oct 2020 12:00:00 +0000
 draft: false
 categories: ['Information']
+tags:
+- Cat Ownership
+  Pet ownership
+  Getting a cat
+images:
+- cat-laying-down-on-hand.jpg
 ---
 
 My wife and I recently took a day trip to the beach to enjoy some alone time. We left Gabby at the house with plenty of food and water and a certainty that she would enjoy having a day to nap and play without mommy or daddy (mostly daddy) constantly picking her up, petting her, and loving on her.
 
 It was a nice little day trip, and we certainly enjoyed ourselves during it. At one point we decided to stop by a pet store that they have there that we don't have where we live and see if we could get Gabby a present because we're those kinds of cat people.
 
-We walked around and mulled over the idea of a [new water bowl](https://www.gabbythetabby.com/best-pet-fountain-for-2017-review/), [some super fancy treats](http://amzn.to/2nnTZR9), or even possibly a cat tree. But she didn't need a new water bowl because hers is awesome, she has plenty of treats, and we really don't have the room for a cat tree.
+We walked around and mulled over the idea of a new water bowl, [some super fancy treats](http://amzn.to/2nnTZR9), or even possibly a cat tree. But she didn't need a new water bowl because hers is awesome, she has plenty of treats, and we really don't have the room for a cat tree.
 
 As we wandered the store we happened on a corner that had cats up for adoption. There were about a half a dozen cats in this room, mingling about, that were up for adoption between $75 and $100.
 
@@ -31,7 +37,7 @@ If I'm not going to let her rely on her instincts in the wild and instead have h
 
 If we were to adopt this other cat, I would have the same obligation to him. So the question, then, becomes: Can I provide that same standard of living for a second cat? And at that point in time in our lives, the answer was _no._
 
-![](IMG_20170102_174847-e1490207897970-1-1024x908.jpg)
+![Sweet little Gabby sleeping against daddy's leg.](/images/gabby-being-spoiled.jpg)
 
 Emotionally I wanted that cat, but when I considered the prospect rationally I couldn't justify it and neither could my wife, so we had to make the hard - seemingly heartless - decision to leave this animal in a cage on the hope that someone else would come by for him.
 
@@ -57,15 +63,19 @@ Kittens can break down her defensives by insisting on playing with her, no matte
 
 These situations have lead to me to believe that the only way we'd be able to get another cat in the house in a way that wouldn't cause anxiety for both animals is if we get a kitten too stupid to stop trying, or wait until Gabby mellows out in a few more years. Either way, 6-year-old Harper wouldn't do it.
 
-**Physical space** was a concern. [With two cats, we would need two litter boxes](https://www.gabbythetabby.com/how-many-litter-boxes-do-i-need/). We simply don't have a place to put a second litter box without putting in a public area. We like to hide Gabby's litter box out of sight in the laundry room. Unfortunately the laundry room is narrow and only fits one litter box in the corner. There is no other out of the way space in our apartment that could accommodate a second litter box.
+***Editor's Note:** We're revisiting and revising articles on this site after Gabby's passing, and this line made us laugh. She absolutely did not mellow out. She became a very cranky and opinionated old lady.*
+
+**Physical space** was a concern. [With two cats, we would need three litter boxes](/how-many-litter-boxes-do-i-need/). We simply don't have a place to put a two more litter boxes without putting at least one in a public area. We like to hide Gabby's litter box out of sight in the laundry room. Unfortunately the laundry room is narrow and only fits one litter box in the corner. There is no other out of the way space in our apartment that could accommodate a second or third litter box.
 
 Add on to that the fact that we're just over 1,080 square feet and I'm not sure we'd have enough room for two humans _and_ two cats to live comfortably. Have you ever noticed that sometimes your cat just isn't around? It's because cats - like people - value the occasional alone time. Our apartment is just small enough that if we added a cat there would be very few places for either animal to get away without having a person or cat lingering around.
 
 Finally, there was **the financial burden**. We feed our cat really well, better than most people feed themselves. That can get expensive, and food costs would double with a second cat. Litter costs would also double, as would vet bills.
 
-This isn't overly burdensome and something our income could accommodate, but we would also have to pay a second $300 deposit to our landlord for the second cat, purchase a second litter box, second bowl, litter, some extra toys, and pay the $100 adoption fee to the charity. After doing the math, our initial investment on this cat would have been over $500.
+This isn't overly burdensome and something our income could accommodate, but we would also have to pay a second $300 deposit to our landlord for the second cat, purchase a second and third litter box, second bowl, litter, some extra toys, and pay the $100 adoption fee to the charity. After doing the math, our initial investment on this cat would have been over $500.
 
-![](IMG_20170102_181501-1-768x1024.jpg)
+{{< image "IMG_20170102_181507.jpg" Resize "400x webp q85" >}}
+Okay, but can we talk about what a beautiful cat she was?
+{{< /image >}}
 
 That's a pretty big investment to make on an animal that we might have to _**return**_ in three months if he simply _isn't working out_. And yes, that is something you have to consider when you get cat. If the new addition doesn't get along in the current environment, it is best for all involved to simply return the cat.
 

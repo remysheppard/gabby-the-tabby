@@ -16,21 +16,17 @@ Last time, I wrote about how Gabby would frequently vomit after eating, and some
 
 After doing a bit of research I found a solution that absolutely ended my cat's vomiting. Throwing up is such a rare occurrence for our cat now that we get a little worried when she does do it! If you have a kitty that just can't seem to keep things down, and our previous tricks of lifting the food bowl, putting an obstacle in the way, and others, didn't help your baby, then give this a whirl:
 
-Grass!
-------
+## Grass!
 
 Out in the wild, a cat will not only eat mice and small snakes, they will also burrow out beetles and grubs and small bugs, and chew on leafy greens and grass. Grass is a natural part of a cat's diet that provides all sorts of good vitamins and minerals.
 
 Grass also helps with digestion and soothes a cat's stomach naturally, helping lower the acidity. I don't claim to understand why it works; I just know that it absolutely does! A lot of times a cat will throw up because their stomach is too acidic or has too much bile in it, and grass - for some reason - counteracts this.
 
-Step-By-Step Process
---------------------
+## Step by Step Process
 
 Growing your own grass is going to be preferable to buying the pre-grown stuff which won't last very long before wilting. So, to grow your own grass, here's what you'll need:
 
 ### Nibble-Licious Grass Seed
-
-\[asa\]B00EBNV97K\[/asa\]
 
 We have tried several different types of grass seed and Gabby never really took to any of them, then we found [Nibble-Licious](https://amzn.to/3c9iIzY), and she absolutely loves this stuff.
 
@@ -38,18 +34,13 @@ It's uncomfortable how much she enjoys this, to be honest. Every time she eats f
 
 ### Plastic Pots
 
-\[asa\]B0042KX77M\[/asa\]
-
 It is super important that you get **plastic** pots for this. Do not make our mistake by getting clay pots. Clay pots absorb water and then "frost" over with this grimy white mold stuff. It is disgusting, there's no way it's healthy, and I hate it. Avoid this mistake by getting plastic pots, which won't do this (and are cheaper, anyway).
 
 ### Potting Soil
 
-\[asa\]B00G8FEUJI\[/asa\]
-
 You'll want to get just the largest, cheapest bag of potting soil you can get your hands on. We use the [MiracleGro Moisture Control](https://amzn.to/2HafGQB) and we have some pretty impressive results with it. Feel free to check it out or pick something else.
 
-Let's grow some grass for our kitties!
---------------------------------------
+## Let's grow some grass for our kitties!
 
 So, this is an easy and straightforward process. Even still, I've found a method for potting and packing that is quick, gets you the right amount of dirt, and takes three and half minutes from start to finish!
 
@@ -61,9 +52,9 @@ Now grab a tablespoon (if you haven't already) and put a good scoop of seeds in 
 
 After you've got your seed in, you cover them up with dirt (glad you saved that extra, huh?) and water again. Let the excess water drain. The soil should be nice and damp now and you shouldn't be able to see any seed.
 
-{{< image "IMG_20160829_061823.jpg" >}}
-
+{{< image "IMG_20160829_061823.jpg" Resize "300x webp q85" >}}
 You'll notice we have the clay pot. Learn from our mistakes: Get plastic.
+{{< /image >}}
 
 Take your pot and put it somewhere dark and cool (we chose the laundry room), and let it sit for a few days. Make sure you pop in once a day and put a little water in there to keep the soil moist. It's grass, so it is impossible to "drown". Typically, water just results in a growth spurt.
 

@@ -2,7 +2,15 @@
 title: '[Kitty Question]: My Cat Is Noisy In My Bathroom'
 date: Mon, 31 Aug 2020 12:00:00 +0000
 draft: false
-tags: ['Information']
+tags:
+- Kitty Questions
+  Noisy Cat
+  Cat vocalization
+  Cat noise at night
+categories:
+- Information
+images:
+- pepper-and-bible.jpg
 ---
 
 Reader Laura writes in about her Kitty, Mr. Dudley Do-Right:
@@ -58,7 +66,7 @@ If that happens you will have to get a new litter box. And that sucks because yo
 
 ### Affording The Vet
 
-There are quite a lot of options to afford the vet. One of them is to get [health insurance for your cat](https://www.gabbythetabby.com/pet-insurance-review/). Unfortunately, pet insurance doesn't usually cover routine visits and basics tests or exams.
+There are quite a lot of options to afford the vet. One of them is to get [health insurance for your cat](/pet-insurance-review/). Unfortunately, pet insurance doesn't usually cover routine visits and basics tests or exams.
 
 But there's another option that we're big fans of....
 
@@ -88,8 +96,13 @@ The application took about 5 minutes, the approval was instant, and we were give
 
 We plan on using their service for all our vet bills going forward. It's just easier to use our Care Credit credit card, set it up on autopay, and then not worry about it.
 
-In Conclusion
--------------
+#### Additional Care Credit Information
+
+During the last 3 months of Gabby's life, she was frequently hospitalized and had quite a few major medical procedures. Ultimately her vet bills from December of 2021 to February of 2022 were north of **$4,500**. Care Credit enabled us to continue paying for her medical treatment, and gave us three more incredibly valuable months with our precious Gabby. 
+
+We highly recommend Care Credit for all of your veterinary expenses. 
+
+## In Conclusion
 
 When a cat's behavior changes unexpectedly like this, it's usually medical and your first stop should be the vet. If it isn't medical, then you should look to other solutions like strenuous play time before bed.
 

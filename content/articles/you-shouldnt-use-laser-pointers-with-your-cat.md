@@ -10,9 +10,7 @@ images:
 
 Cats have a natural need to hunt. It is one of the things that makes cats simultaneously fun and incredibly annoying at 3 in the morning. However, laser pointers cannot accurately satiate the need to hunt because the cat can never catch the dot. That's why you should not use laser pointers with your cat.
 
-Cats are well known to play great games like "Get the finger spider", "blanket", and even whack a mole.
-
-{{< youtube WBQO1ASE9J8 >}}
+Cats are well known to play great games like "Get the finger spider", "blanket", and even [whack a mole](https://www.youtube.com/watch?v=WBQO1ASE9J8).
 
 A lot of owners recognize the need, then, to play with their cats in a way that imitates hunting. Our cat, Gabby, for example, loves to play chase with us. She will often lie in wait near the couch for mommy or daddy and then pounce at us when we walk by, which initiates us to chase her to her hiding place (under the table or bed), at which point she turns around and chases us back.
 

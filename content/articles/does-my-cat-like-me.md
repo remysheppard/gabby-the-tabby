@@ -22,7 +22,7 @@ A lot of pet-parents, cat owners, and fur moms wonder if their cats like them. T
 
 ### So how do you know if your cat likes you?
 
-We've already discussed [whether cats love us as parents](http://www.gabbythetabby.com/cat-think-im-mom-dad/), but we haven't discussed whether your cat likesyou as a roommate.
+We've already discussed [whether cats love us as parents](/cat-think-im-mom-dad/), but we haven't discussed whether your cat likes you as a roommate.
 
 Often this can be confusing because cats can be very protective of their alone time and will seek out places where they can get some good shut eye.
 
@@ -30,9 +30,9 @@ Sometimes they seek out these places because they genuinely want to be alone, ot
 
 But she's also comfortable napping her little kitty bed because we established a rule in our family to not touch her when she's in her kitty bed. So even though it's in the middle of the room, she knows she's left alone there. For the most part. (Daddy sometimes breaks the rule).
 
-{{< image "gabby-doggy.jpg" >}}
-
+{{< image "gabby-doggy.jpg" Resize "600x webp q85" >}}
 Why have you disturbed me and my doggy?
+{{< /image >}}
 
 But certain types of self-isolating behavior in cats isn't necessary an indicator of depression or loneliness - both of which can impact our wonderful little feline friends.
 
@@ -40,7 +40,7 @@ After all, don't _you_ sometimes just want to be alone?
 
 What you need to do to determine if your cat likes you (or is happy in general) is balance self-isolating behavior against social behaviors.
 
-We know that cats understand us. It's been show that they have a vocabulary of around two hundred words that they can parse out and understand. We also know that they tend to ignore us for the most part.
+We know that cats understand us. It's been shown that they have a vocabulary of around two hundred words that they can parse out and understand. We also know that they tend to ignore us for the most part.
 
 Right now, as I'm typing this, Gabby is perched up on my desk, hunting out the window for birds, and bugs, and anything else her sharp little eyes can see.
 
@@ -48,9 +48,9 @@ During the day she stays in the same room as daddy does for the most part. She w
 
 At night, she will sleep on top of mommy without fail. Usually curled up somewhere nice and comfortable that ensures mommy can't get any decent rest. Like at her side or sleeping on her foot.
 
-{{< image "20170809_132004-e1505222300356-1.jpg" >}}
-
+{{< image "perfect-nap-spot.jpg" Resize "600x webp q85">}}
 Ah yes, this is the perfect place to nap.
+{{< /image >}}
 
 When mommy and daddy are both home, little Gabbers needs to be exactly between them. If daddy gets up and goes to another room, Gabby will find the middle point between mommy and daddy and lay there or position herself so she can see both of us.
 
@@ -60,7 +60,7 @@ Even though she doesn't necessarily like to be _bothered_ by us all the time, we
 
 If your cat cuddles with you, sleeps with you, or is content and comfortable to be near you, you can assume your cat likes you.
 
-#### Hunting Treats for You
+### Hunting Treats for You
 
 Another great tell for whether your cat likes you is more specific to outdoor cats. Does your cat bring you dead birds or mice? This is a dead giveaway that your cat is fond of you.
 
@@ -70,7 +70,7 @@ The reason cats bring you presents like dead mice and dead birds is because they
 
 Your cat doesn't want you to starve to death so their bringing you food, like a mom would a kitten, to try and show you how to get your own.
 
-#### Happy Tail
+### Happy Tail
 
 We often call Gabby "The Gabbler". It's a joke about The Riddler, because her tail is always straight up in the air with a little crook in the end, making it look like a question mark.
 
@@ -78,22 +78,21 @@ You probably recognize this posture as a cat owner. A straight up tail when a ca
 
 The question mark tail is a dead giveaway that your cat likes you and is happy to be your roommate kitty.
 
-#### Bunting
+### Bunting
 
 Bunting is when a cat rubs its head up against you in display of affection. They do this because they have special sebaceous glands called "temporal glands" between their ears and eyes that give off a strong scent.
 
-They use these glands (and others in their paws, cheeks, and tails) to mark things that belong to them. If your cat is bunting you, or arching its back and rubbing on you, you can feel confident that your cat likes you.
+They use these glands (and others in their paws, cheeks, and tails) to mark things that belong to them. If your cat is bunting you, or arching its back and rubbing on you, you can feel confident that your cat likes you, because it's marking you as its own.
 
 ### You have a cat, not a dog.
 
 While some cats have extremely outgoing personalities and are extremely friendly and personable, a lot of cats are skittish and mildly independent animals. Just because your cat isn't on you like your dog doesn't mean your cat doesn't like you. If your cat hangs out around you, it's safe to say he or she likes you.
 
-What if my cat doesn't like me?
--------------------------------
+## What if my cat doesn't like me?
 
-{{< image "gabby-mommy-foot.jpg" >}}
-
+{{< image "gabby-mommy-foot.jpg" Resize "600x webp q85" >}}
 When your cat wants you to know she owns you.
+{{< /image >}}
 
 Cats are emotional animals, and they're bonding animals. If your cat doesn't bond to you, or to other cats present in your house, you need to consider rehoming it.
 
@@ -107,6 +106,6 @@ We know cats are very emotionally well-developed creatures and keeping a cat in 
 
 I hope that answers your question!
 
-### **What about you? What little signs does your kitty give you to let you know they like you?**
+## **What about you? What little signs does your kitty give you to let you know they like you?**
 
 Let us know in the comments! And make sure you subscribe for more updates!

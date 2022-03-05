@@ -41,7 +41,7 @@ We hope you enjoy seeing snapshots of our lives with this wonderful little creat
 
 #### Update
 
-This was written when we first launched this site back in 2014. Since then Gabby has had the most wonderful little life that a kitty could hope for. Unfortunately, though, from 2021 to 2022 she began having problems. Eventually, in February of 2022, we had to make the decision to humanely euthanize her. 
+This was written when we first launched this site back in 2014. Since then Gabby has had the most wonderful little life that a kitty could hope for. Unfortunately, though, from 2021 to 2022 she began having severe health problems. Eventually, in February of 2022, we had to make the most difficult decision and had her humanely euthanized.
 
 It was the hardest thing we've ever had to do, and we miss her so dearly. 
 

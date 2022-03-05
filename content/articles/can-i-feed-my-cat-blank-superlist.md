@@ -33,7 +33,7 @@ Ham should be fully cooked. Absolutely, completely, 100% cooked. And you should 
 
 For this reason, their sodium contents are off the charts, and sodium is not good for kitties. Their little kidneys can't process salts as effectively as ours, and you risk putting them into kidney failure. A little nibble on rare occasion won't hurt, but ham, bacon, and the like should not be a part of their regular diet.
 
-Likewise, **you should never feed your cat raw pork. Ever.**Pork contains a lot of pathogens and parasites and should never be fed raw to any creature, much less your cat. If someone tells you raw pork is okay for a cat to eat, they do not know what they are talking about.
+Likewise, **you should never feed your cat raw pork. Ever.** Pork contains a lot of pathogens and parasites and should never be fed raw to any creature, much less your cat. If someone tells you raw pork is okay for a cat to eat, they do not know what they are talking about.
 
 You should **never feed your cat processed ham**, like is found in sandwich meat packs. The same is true for ham type products like sausage, peperoni, salami, and other cased or packed meats.
 
@@ -47,7 +47,7 @@ Raw lamb might be okay, depending on how it was raised. The things you want to w
 Can I feed my cat canned salmon?
 --------------------------------
 
-Same rules apply as with tuna ([see the complete tuna guide here](https://www.gabbythetabby.com/can-give-cat-canned-tuna/)): It's better to get it fresh or whole than canned, but if you choose to do canned, try and find a canned option that has low or no sodium. Make sure you drain it thoroughly.
+Same rules apply as with tuna ([see the complete tuna guide here](/can-give-cat-canned-tuna/)): It's better to get it fresh or whole than canned, but if you choose to do canned, try and find a canned option that has low or no sodium. Make sure you drain it thoroughly.
 
 Can I feed my cat raw salmon?
 -----------------------------
@@ -80,7 +80,11 @@ Add in the fact that it is, by nature, porous, and you have a recipe for bacteri
 
 It's a filler of chemicals and byproducts that makes up nearly 20% of most cheaper ground beefs. You should absolutely prohibit your cat from eating any kind of ground meat, unless you ground it yourself fresh, and safely handled it and stored it, or if you have first fully cooked the meat.
 
-\[asa\]B01JWN4QN2\[/asa\]
+## Our Preferred Meat Grinder
+[![](https://m.media-amazon.com/images/I/81X7uQHeGrL._AC_SX679_.jpg)](https://amzn.to/3MBvrxl)
+
+We use the STX Turboforce II to grind up meat and bone for a home-made raw diet for our cats.
+
 
 Can I feed my cat a hamburger?
 ------------------------------
@@ -97,10 +101,9 @@ Can I feed my cat snakes?
 
 I'm not sure how you would feed your cat a snake, but if your cat catches and eats a snake one day, it's fine. Snakes are natural prey of cats and are fine for them to eat.
 
-Can I feed my cat trout?
-------------------------
+## Can I feed my cat Trout?
 
-Yes. See the rules for salmon above.
+Yes, trout is a perfectly safe fish for cats to eat. Just make sure you see the rules for Salmon above and follow those same guidlines.
 
 Can I feed my cat KFC?
 ----------------------
@@ -171,7 +174,7 @@ Absolutely! Carrots are just fine for cats to eat. You will want to process or c
 Can I feed my cat grass?
 ------------------------
 
-Yes! Cats love grass and grass is great for cats! [We have a whole post on this here](https://www.gabbythetabby.com/nibble-licious-cat-grass-review/).
+Yes! Cats love grass and grass is great for cats! [We have a whole post on this here](/nibble-licious-cat-grass-review/).
 
 Can I feed my cat bananas?
 --------------------------
@@ -284,6 +287,8 @@ Can I feed my cat baby food?
 
 If the baby food is just mashed up veggies it shouldn't be a problem. The thing to watch for are additives, preservatives, salts, sugars, and such. If it is nothing but mashed carrots, that's okay. Most veggie based foods, though, hold little-to-no nutritional value for your cat.
 
+Blended meat baby food is also fine for kitty. Towards the end of her life, Gabby had to take a lot of medications, and the easiest, stress free way we could get her to take them was to mix them in with Gerber Chicken baby food. She loved it so much she didn't care that the medicine was mixed in. In fact, her last meal was an entire jar of Gerber Chicken baby food.
+
 Can I feed my cat chicken noodle soup?
 --------------------------------------
 
@@ -328,4 +333,4 @@ Can I feed my cat a vegetarian diet?
 
 No, and you should not try. Cats are what are known as _obligate carnivores_. If left on their own in the wild, they would hunt and eat **meat**. Mice, small birds, snakes, etc. Your cat absolutely needs meat. Feeding your cat a vegetarian diet can be harmful and dangerous. Do not do it. You can literally kill your cat this way.
 
-_Well that will do it! Leave us a comment below if you have anything to add or any insight on the things listed! We don't know everything and we haven't experienced everything, but we tried to make this list as accurate as possible. _
+_Well that will do it! Leave us a comment below if you have anything to add or any insight on the things listed! We don't know everything and we haven't experienced everything, but we tried to make this list as accurate as possible._

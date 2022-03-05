@@ -46,11 +46,11 @@ Hm, this smells like the brushystick....
 
 This may seem a little strange based on what I just told you, but we honestly love this thing. We've had it for about two years now and we have _never once_ seen it used properly (despite our efforts).
 
-With that being said: It still gets frequent daily use by our cat. We find this extra amusing because, if she would just figure out how to use it properly, we're sure she would be_even more_ obsessed with it.
+With that being said: It still gets frequent daily use by our cat. We find this extra amusing because, if she would just figure out how to use it properly, we're sure she would be _even more_ obsessed with it.
 
 So, no: Our cat does not use this product for its designated purpose, but that's because our cat is a goof and probably not the chirpiest kitten of the litter (if you catch my drift).
 
-#### If she doesn't use it as a grooming toy, how_does_ she use it?
+#### If she doesn't use it as a grooming toy, how _does_ she use it?
 
 I'm glad you asked! Gabby uses the [Purrfect Arch for several things](https://amzn.to/3hvXld8).
 
@@ -58,9 +58,9 @@ For example: It's a safe lying place. She is always comfortable to lay down unde
 
 {{< image "gabby-in-the-purrfect-arch.jpg" Resize "500x webp q85" />}}
 
-She also uses it when she gets a case of the_zoomies_ and must run around the house. She'll tear through the house, into the office, and dive through the [Purrfect Arch](https://amzn.to/3hvXld8) as a partof her circuit.
+She also uses it when she gets a case of the _zoomies_ and must run around the house. She'll tear through the house, into the office, and dive through the [Purrfect Arch](https://amzn.to/3hvXld8) as a partof her circuit.
 
-When she engages in a game of [Get the Gabby](/5-indicators-of-your-cats-mood/), she will often make use of the [Purrfect Arch](https://amzn.to/3hvXld8)as an *ambush point*. She will run in the office, and duck down behind the [Purrfect Arch](https://amzn.to/3hvXld8)where she is, I guess, *cat*-ouflaged (?) so well that daddy totally can't even see her. At all.
+When she engages in a game of [Get the Gabby](/5-indicators-of-your-cats-mood/), she will often make use of the Purrfect Archas an *ambush point*. She will run in the office, and duck down behind the [Purrfect Arch](https://amzn.to/3hvXld8) where she is, I guess, *cat*-ouflaged (?) so well that daddy totally can't even see her. At all.
 
 When he strays close enough to her, she will pounce out and get him extra good!
 
