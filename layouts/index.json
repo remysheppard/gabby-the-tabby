@@ -1,0 +1,11 @@
+[
+  {{- range $index, $value := where .Site.Pages "Params.avoid" "ne" "true" -}}
+    {{- if $index -}}, {{- end -}}
+    {
+      "url": "{{- .RelPermalink -}}",
+      "title": "{{- .Title -}}",
+      "content": {{- .Content | plainify | jsonify -}},
+      "category": "{{- with .Params.categories -}}{{- delimit . " " -}}{{- else -}}Uncategorized{{- end -}}"
+    }
+  {{- end -}}
+]

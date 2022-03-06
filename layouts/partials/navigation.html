@@ -7,7 +7,7 @@
 	
 		<div class="flex flex-row">
 			{{- range .Site.Menus.main -}}
-				<a href="{{ .URL }}" class="mx-5 text-gray-700 font-bold flex flex-col md:inline md:flex-none items-center hover:text-pink-400">
+				<a href="{{ .URL }}" class="mx-2 text-gray-700 font-bold flex flex-col md:inline md:flex-none items-center hover:text-pink-400 justify-between">
 					<span class="inline-block md:hidden"><i class="fa-light fa-{{ .Pre }}"></i></span>
 					<span class="text-xs md:text-xl ">{{ .Name }}</span>
 				</a>
@@ -22,10 +22,11 @@
 			{{- end -}}
 		</div>
 
-		<span class="mr-10 hidden sm:block">
-			<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 inline" viewBox="0 0 20 20" fill="currentColor">
-			  <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd" />
-			</svg>
+		<span class="mr-10 sm:block">
+			<a href="/search" class="mx-2 text-gray-700 font-bold flex flex-col md:inline md:flex-none items-center hover:text-pink-400 justify-between">
+				<i class="fa-regular fa-magnifying-glass"></i>
+				<span class="inline-block md:hidden text-xs">Search</span>
+			</a>
 		</span>
 
 	</div>

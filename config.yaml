@@ -14,6 +14,12 @@ taxonomies:
   category: categories
   tag: tags
 
+outputs:
+  home:
+  - HTML
+  - RSS
+  - JSON
+
 params:
   description: 'Cat health and behavior advice, cat product reviews.'
   author: Samantha Sheppard
