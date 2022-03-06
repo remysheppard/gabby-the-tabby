@@ -33,7 +33,7 @@
     <span class="inline-flex lg:ml-auto lg:mt-0 mt-6 w-full justify-center md:justify-start md:w-auto">
       {{- range .Site.Menus.social -}}
         <a href="{{ .URL }}" class="text-white ml-3">
-          {{ .Pre }}
+          <i class="fa-brands fa-fw fa-lg fa-{{ .Pre }} text-white hover:text-red-900"></i>
         </a>
       {{- end -}}
     </span>

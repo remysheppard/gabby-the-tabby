@@ -4,7 +4,7 @@ title: Gabby The Tabby
 env: development
 
 summaryLength: 30
-paginate: 6
+paginate: 9
 
 permalinks:
   articles: "/:title"
@@ -13,12 +13,6 @@ permalinks:
 taxonomies:
   category: categories
   tag: tags
-
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
 
 params:
   description: 'Cat health and behavior advice, cat product reviews.'
@@ -31,25 +25,25 @@ menu:
     name: Home
     url: /
     weight: 1
-    pre: home
+    pre: house-chimney-heart
 
   - identifier: information
     name: Information
     url: /category/information
     weight: 2
-    pre: Information
+    pre: newspaper
 
   - identifier: reviews
     name: Reviews
     url: /category/reviews
     weight: 3
-    pre: Reviews
+    pre: magnifying-glass-dollar
 
   - identifier: contact
     name: Contact
     url: /contact
     weight: 4
-    pre: Contact
+    pre: paper-plane
 
   social:
   - identifier: youtube

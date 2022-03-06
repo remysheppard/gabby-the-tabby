@@ -8,7 +8,7 @@
 		<div class="flex flex-row">
 			{{- range .Site.Menus.main -}}
 				<a href="{{ .URL }}" class="mx-5 text-gray-700 font-bold flex flex-col md:inline md:flex-none items-center hover:text-pink-400">
-					<span class="inline-block md:hidden">{{ .Pre }}</span>
+					<span class="inline-block md:hidden"><i class="fa-light fa-{{ .Pre }}"></i></span>
 					<span class="text-xs md:text-xl ">{{ .Name }}</span>
 				</a>
 			{{- end -}}

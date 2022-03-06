@@ -41,6 +41,18 @@
 
 		        <div class="mt-2">
 		            <a href="{{ .Permalink }}" class="text-2xl font-bold text-gray-700  hover:text-gray-600  hover:underline">{{ .Title }}</a>
+
+		            <a href="{{ .Permalink }}">
+									{{ $img := "" }}	
+									{{ with .Params.images }}
+										{{ range first 1 . }}
+											{{ $src := printf ("images/%s") . }}
+											{{ $img = (resources.Get $src).Fill "400x100 smart q85 webp" }}
+											<img src=" {{ $img.RelPermalink }}" height="{{ $img.Height }}" width="{{ $img.Width }}" class="rounded my-5 w-full">
+										{{ end }}
+									{{ end }}
+								</a>
+
 		            <p class="mt-2 text-gray-600 ">{{ .Summary }}</p>
 		        </div>
 		        
@@ -49,7 +61,7 @@
 
 		            <div class="flex items-center">
 		                <img class="hidden object-cover w-10 h-10 mx-4 rounded-full sm:block" src='{{ (( resources.Get "images/avatar.jpg" ).Fill "125x125 q65 webp").RelPermalink }}' alt="avatar">
-		                <span class="font-bold text-gray-700 cursor-pointer ">{{ .Site.Params.author }}</span>
+		                <span class="font-bold text-gray-700">{{ .Site.Params.author }}</span>
 		            </div>
 		        </div>
 		    </div>
