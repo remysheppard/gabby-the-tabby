@@ -100,7 +100,7 @@ We plan on using their service for all our vet bills going forward. It's just ea
 
 During the last 3 months of Gabby's life, she was frequently hospitalized and had quite a few major medical procedures. Ultimately her vet bills from December of 2021 to February of 2022 were north of **$4,500**. Care Credit enabled us to continue paying for her medical treatment, and gave us three more incredibly valuable months with our precious Gabby. 
 
-We highly recommend Care Credit for all of your veterinary expenses. 
+**We highly recommend Care Credit for all of your veterinary expenses.**
 
 ## In Conclusion
 
