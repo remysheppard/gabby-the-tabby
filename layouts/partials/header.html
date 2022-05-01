@@ -1,0 +1,53 @@
+<!-- begin header -->
+<header class="header">
+  <div class="container">
+    <div class="row">
+      <div class="header__inner {{ if or (.IsPage) (eq .Section "post") (eq .Section "posts") (eq .Section "tags") }} {{ else }}without-border{{ end }} col col-12 col-d-10 col-m-12 push-m-0 push-d-1">
+
+        <div class="logo">
+          <a class="logo__link" href="{{ .Site.BaseURL }}">
+          {{ if .Site.Params.logo }}
+            {{- $logo := (resources.Get site.Params.logo).Resize "270x webp q100" -}}
+            {{- $logoDark := (resources.Get "/images/logo-dark.png").Resize "270x webp q100" -}}
+            <img id="logo" class="logo__image" src="{{- $logo.RelPermalink -}}" data-logo-light="{{- $logo.RelPermalink -}}" data-logo-dark="{{- $logoDark.RelPermalink -}}" alt="{{ .Site.Title }}" height="{{- div $logo.Height 2 -}}" width="{{- div $logo.Width 2 -}}">
+          {{ else }}
+            {{ .Site.Title }}
+          {{ end }}
+          </a>
+        </div>
+
+        <nav class="main-nav">
+          <div class="main-nav__box">
+            <div class="nav__icon-close">
+              <i class="ion ion-md-close"></i>
+            </div>
+            <div class="nav__title">Menu</div>
+            <ul class="nav__list list-reset">
+            {{ range.Site.Menus.main }}
+              <li class="nav__item">
+                <a href="{{ .URL }}" class="nav__link">{{ .Name }}</a>
+              </li>
+            {{ end }}
+            <li class="nav__item nav__item-icon">
+              <div class="toggle-theme">
+                <span class="toggle-moon" title="Enable dark mode" aria-hidden="true"></span>
+                <span class="toggle-sun" title="Enable light mode" aria-hidden="true"></span>
+              </div>
+            </li>
+            </ul>
+          </div>
+        </nav>
+
+        <div class="nav-buttons">
+          <i class="nav__icon nav__icon-menu ion ion-md-menu"></i>
+          <i class="nav__icon nav__icon-search ion ion-md-search"></i>
+        </div>
+
+      </div>
+    </div>
+  </div>
+  <div class="header__overlay"></div>
+</header>
+<!-- end header -->
+
+{{ partial "search.html" . }}

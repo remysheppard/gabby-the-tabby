@@ -1,37 +1,51 @@
-{{/* Better Site Title */}}
-<title>
-  {{- if not .IsHome -}}
-    {{- with .Title -}}
-      {{- . -}}
-      &nbsp;&middot;&nbsp;
-    {{- end -}}
-  {{- end -}}
-  {{- .Site.Title -}}
-  {{- if .IsHome -}}
-    &nbsp;&middot;&nbsp;
-    The World's Cutest Little Kitty
-  {{- end -}}
-</title>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {{- hugo.Generator -}}
+  <link rel="icon" type="image/x-icon" href="{{ "favicon.ico" | relURL }}">
 
-<!-- // { Meta Tags } -->
-{{- hugo.Generator -}}
-<meta charset="utf-8"> 
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">  
-<meta name="description" content="{{- .Site.Params.description -}}">
+  <title>{{ if not .IsHome }}{{ humanize .Title }} | {{ end }}{{ .Site.Title }}</title>
+  <meta name="description" content="{{if .IsHome}}{{ .Site.Params.description }}{{else}}{{ .Description }}{{end}}">
 
-{{- template "_internal/opengraph.html" . -}}
-{{- template "_internal/twitter_cards.html" . -}}
+  <script src="https://absorbing-complex.gabbythetabby.com/script.js" data-site="LBNWUNOK" defer></script>
 
-<!-- // { Styling } -->
-{{- $css := resources.Get "main.css" | minify -}}
-{{- with $css -}}
-  <style type="text/css">
-    {{- .Content | safeCSS -}}
-  </style>
-{{- end -}}
+  {{ with .OutputFormats.Get "rss" -}}
+  {{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+  {{ end }}
 
-<!-- // { FontAwesome } -->
-<link rel="preload" as="script" href="https://kit.fontawesome.com/a1b60d1457.js">
-<script src="https://kit.fontawesome.com/a1b60d1457.js" defer crossorigin="anonymous"></script>
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ if not .IsHome }}{{ humanize .Title }} | {{ end }}{{ .Site.Title }}">
+  <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+  {{ if .IsHome}}<meta name="twitter:image" content="{{ .Site.Params.hero.hero__image | absURL }}">{{ else }}<meta name="twitter:image" content="{{ .Params.Image | absURL }}">{{ end }}
 
-<script src="https://absorbing-complex.gabbythetabby.com/script.js" data-site="LBNWUNOK" defer></script>
+  <!-- Facebook OpenGraph -->
+  <meta property="og:title" content="{{ if not .IsHome }}{{ humanize .Title }} | {{ end }}{{ .Site.Title }}">
+  <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+  {{ if .IsHome}}<meta property="og:image" content="{{ .Site.Params.hero.hero__image | absURL }}">{{ else }}<meta property="og:image" content="{{ .Params.Image | absURL }}">{{ end }}
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Lora:wght@400;700&display=swap" as="style">
+
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Lora:wght@400;700&display=swap" rel="stylesheet">
+
+  <!-- Ionicons -->
+  <link rel="preload" href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css" as="style">
+
+  <link href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css" rel="stylesheet">
+
+  <script>
+    if (localStorage.getItem("theme") === "dark") {
+      document.documentElement.setAttribute("dark", "");
+      document.documentElement.classList.add('dark-mode');
+    }
+  </script>
+
+  <!-- CSS -->
+  {{ with resources.Get "sass/main.scss" | toCSS | minify }}
+  <style>{{ .Content | safeCSS }}</style>
+  {{ end }}
+</head>

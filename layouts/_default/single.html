@@ -1,42 +1,133 @@
 {{ define "main" }}
 
-	<span class="px-3 py-1 text-sm font-bold text-red-900 bg-rose-200 rounded mb-4">{{ with .Params.categories }}{{ delimit . " " }}{{ end }}</span>
-	<h1>
-		{{ .Title }}
-	</h1>
+{{ if or (eq .Section "post") (eq .Section "posts") }}
 
-	<main class="my-10 flex flex-col sm:flex-row">
-		<section class="w-full flex flex-wrap sm:w-4/6 px-5 text-lg sm:text-xl">
+<div class="container">
+  <div class="row">
+    <div class="col col-7 col-d-10 col-m-12 push-m-0 push-d-1 push-2">
 
-			{{ $img := "" }}	
-			{{ with .Params.images }}
-				{{ range first 1 . }}
-					{{ $src := printf ("images/%s") . }}
-					{{ $img = (resources.Get $src).Fit "1600x900 smart q85 webp" }}
-					<img src="{{ $img.RelPermalink }}" alt="{{ $.Page.Title }}" height="{{ div $img.Height 2 }}" width="{{ div $img.Width 2 }}" class="rounded shadow w-full mx-auto h-auto mb-10">
-				{{ end }}
-			{{ end }}
+      <div class="post-head">
+        <div class="post-info">
+          {{ if .Params.tags }}
+            <div class="post-tags">
+              {{ range ($.GetTerms "tags") }}
+                <a href="{{ .Permalink }}" class="post-tags__tag">{{ humanize .LinkTitle }}</a>
+              {{ end }}
+            </div>
+          {{ end }}
+          <span class="post-date">
+            <time datetime="{{ .Date.Format " 2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+          </span>
+        </div>
+        <h1 class="post-title">{{ .Title }}</h1>
+      </div>
 
-			{{ .Content }}
+    </div>
+  </div>
+</div>
 
-			{{ if eq (getenv "HUGO_ENV") "production" }}
-				{{ partial "welcomments/comments" (dict "context" . "websiteId" "fu8AyzXYoEMZV5gaqxnRCstLG" ) }}
-			{{ end }}
-		</section>
+{{ if .Params.image }}
+<div class="container">
+  <div class="row">
+    <div class="col col-8 col-d-10 col-m-12 push-m-0 push-d-1 push-2">
+      <div class="image-box">
+        {{- with .Params.Image -}}
+          {{- $feature := (resources.Get .).Resize "800x webp q75" -}}
+          <div class="post-image" style="background-image: url('{{ $feature.RelPermalink }}')"></div>
+        {{- end -}}
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
 
-		<aside class="flex flex-col h-full w-full sm:w-2/6 px-5 relative top-0">
-			{{ partial "sidebar" . }}
-		</aside>
-	</main>
+<div class="container">
 
-<script type="text/javascript">
-    amzn_assoc_ad_type = "link_enhancement_widget";
-    amzn_assoc_tracking_id = "gabbytabby-20";
-    amzn_assoc_linkid = "04ef1897bf43e18287c45fed64a9c4f9";
-    amzn_assoc_placement = "";
-    amzn_assoc_marketplace = "amazon";
-    amzn_assoc_region = "US";
-</script>
-<script defer src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&MarketPlace=US"></script>
+  <div class="row">
+    <div class="col col-8 col-d-10 col-m-12 push-m-0 push-d-1 push-2">
+
+      <!-- begin post -->
+      <article class="post">
+
+        <div class="post__content">
+          {{ .Content }}
+        </div>
+
+        {{ partial "share-buttons.html" . }}
+
+        <div class="author-image-box">
+          <a href="/about/" class="author__image" style="background-image: url('{{ .Site.Params.author.avatar | absURL }}')" aria-label="{{.Site.Params.author.name}}"></a>
+          <a class="author__name" href="/about/">{{.Site.Params.author.name}}</a>
+        </div>
+
+        {{ if or .NextInSection .PrevInSection }}
+        <div class="post__navigation">
+          {{ if .PrevInSection }}
+          <div class="prev">
+            <a class="post__nav post__nav__prev" href="{{ .PrevInSection.Permalink }}"><i class="ion ion-ios-arrow-back"></i> Previous Page</a>
+            <h3 class="post__nav__title"><a href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }}</a></h3>
+          </div>
+          {{ end }}
+          {{ if .NextInSection }}
+          <div class="next">
+            <a class="post__nav post__nav__next" href="{{ .NextInSection.Permalink }}">Next Page <i class="ion ion-ios-arrow-forward"></i></a>
+            <h3 class="post__nav__title"><a href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}</a></h3>
+          </div>
+          {{ end }}
+        </div>
+        {{ end }}
+
+        {{ if and .Site.Params.disqus.disqusShortname .Site.Params.disqus.enable }}
+          {{ partial "disqus-comments.html" . }}
+        {{ end }}
+    
+      </article>
+      <!-- end post -->
+    </div>
+  </div>
+</div>
+
+{{ else }}
+
+<div class="container">
+  <div class="row">
+    <div class="col col-7 col-d-10 col-m-12 push-m-0 push-d-1 push-2">
+      <div class="page-head">
+        <h1 class="page-title">{{ .Title }}</h1>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ if .Params.image }}
+<div class="container">
+  <div class="row">
+    <div class="col col-8 col-d-10 col-m-12 push-m-0 push-d-1 push-2">
+      <div class="image-box">
+        {{- with .Params.Image -}}
+          {{- $feature := (resources.Get .).Resize "800x webp q75" -}}
+          <div class="page-image" style="background-image: url('{{- $feature.RelPermalink -}}')"></div>
+        {{- end -}}
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+
+<div class="container">
+  <div class="row">
+    <div class="col col-8 col-d-10 col-m-12 push-m-0 push-d-1 push-2">
+      <!-- begin page -->
+      <article class="page">
+        <div class="page__content">
+          {{ .Content }}
+        </div>
+      </article>
+      <!-- end page -->
+    </div>
+  </div>
+</div>
+
+{{ end }}
 
 {{ end }}

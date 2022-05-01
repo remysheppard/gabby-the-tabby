@@ -1,0 +1,25 @@
+<div class="article col col-4 col-d-6 col-m-12 grid__post">
+  {{ if .Params.Image }}
+    {{- $feature := (resources.Get .Params.Image).Resize "500x webp q75" -}}
+    <a class="article__image" href="{{ .RelPermalink }}">
+      <img src="{{- $feature.RelPermalink -}}" alt="{{ .Title }}">
+    </a>
+  {{ end }}
+  <div class="article__content">
+    <div class="article__meta">
+      <div class="article-tags">
+        {{ if .Params.tags }}
+          <div class="article-tags__box">
+            {{ range ($.GetTerms "tags") }}
+              <a href="{{ .Permalink }}" class="article__tag">{{ humanize .LinkTitle }}</a>
+            {{ end }}
+          </div>
+        {{ end }}
+      </div>
+      <time class="article__date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "January 2, 2006" }}</time>
+    </div>
+    <h2 class="article__title">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h2>
+  </div>
+</div>

@@ -1,0 +1,47 @@
+{{ if .Site.Params.slider.enable }}
+{{ $slider_tag := (index .Site.Taxonomies.tags (lower .Site.Params.slider.tag)).Pages }}
+<!-- begin slider -->
+<div class="container">
+  <div class="row">
+    <div class="col col-12 col-d-10 col-m-12 push-m-0 push-d-1">
+      <div class="slider">
+        <div class="slider__inner">
+          <div class="slider__box">
+            {{ range $slider_tag }}
+              <div class="slider__item">
+                <div class="slider__main">
+                <a href="{{ .RelPermalink }}" style="background-image: url('{{- ((resources.Get .Params.Image).Resize "800x webp q70").RelPermalink -}}')"
+                  class="slider__image" aria-label="{{ .Title }}"></a>
+
+                  <div class="slider__content">
+
+                    <div class="slider__meta">
+                      <div class="slider__tags">
+                        {{ range .Params.tags }}
+                          <a class="slider__tag" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ humanize . }}</a>
+                        {{ end }}
+                      </div>
+                      <time class="article__date" datetime="{{ .Date.Format " 2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "January 2, 2006" }}</time>
+                    </div>
+
+                    <h1 class="slider__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+
+                    <p class="slider__excerpt">{{ if .Description }}{{ .Description }}{{ else }}{{ truncate 140 .Summary | safeHTML }}{{ end }}</p>
+
+                    <ul class="slider__list list-reset">
+                      <li class="slider__item-prev"><i class="prev ion ion-ios-arrow-back"></i></li>
+                      <li class="slider__item-next"><i class="next ion ion-ios-arrow-forward"></i></li>
+                    </ul>
+
+                  </div>
+                </div>
+              </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end slider -->
+{{ end }}

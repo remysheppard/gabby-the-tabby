@@ -1,3 +1,6 @@
-[[redirects]]
-  from = "/go/kittykickstix"
-  to = "https://shareasale.com/r.cfm?b=998244&u=1295391&m=36868&urllink=&afftrack="
+[build]
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.98.0"

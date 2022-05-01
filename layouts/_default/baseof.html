@@ -1,21 +1,30 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    {{ partial "head" . }}
-  </head>
+<html lang="{{ .Site.LanguageCode }}">
 
-  <body class="bg-gray-100">
+{{ partial "head.html" . }}
 
-    {{ partial "navigation" . }}
+<body>
 
-    <div class="container px-5 md:px-0 w-full md:w-2/3 mx-auto">
+  {{ template "_internal/google_analytics.html" . }}
+
+  {{ partial "header.html" . }}
+
+  <!-- begin content -->
+  <main class="content" aria-label="Content">
+    <!-- begin wrapper-page -->
+    <div class="wrapper-page">
       {{ block "main" . }}{{ end }}
     </div>
+    <!-- end wrapper-page -->
+  </main>
+  <!-- end content -->
 
+  <div class="top" title="Top"><i class="ion ion-ios-arrow-up"></i></div>
 
-    {{ partial "footer" . }}
+  {{ partial "footer.html" . }}
 
+  {{ partial "javascripts.html" . }}
 
-    <script src="https://kit.fontawesome.com/c7953f49d9.js" defer crossorigin="anonymous"></script>
-  </body>
+</body>
+
 </html>

@@ -1,0 +1,135 @@
+#-------------------------------
+# General Site Settings
+baseURL = "https://www.gabby-the-tabby.netlify.app/"
+languageCode = "en-us"
+title = "Gabby The Tabby"
+paginate = 9
+
+[permalinks]
+  posts = "/:title/"
+
+#-------------------------------
+# Main Menu
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact"
+    weight = 3
+
+
+[params]
+  logo = "/images/logo.png" # You can add own logo. For example "/images/logo.png".
+  description = "Melotta is a modern and minimal Hugo theme for sharing your ideas."
+
+  [params.author]
+    name = "Samantha Sheppard"
+    avatar = "https://via.placeholder.com/100x100"
+
+
+  #-------------------------------
+  # Slide Settings
+  [params.slider]
+    enable = true
+    tag = "Information"
+
+
+  #-------------------------------
+  # Gallery Footer Settings
+  [params.gallery]
+    enable = true
+
+  [[params.gallery_image]]
+    image_alt = "Our first picture of Gabby"
+    image_url = "/images/gabby-cage-1.jpg"
+
+  [[params.gallery_image]]
+    image_alt = "Minimalism"
+    image_url = "/images/cat-laying-down-on-hand.jpg"
+
+  [[params.gallery_image]]
+    image_alt = "Gabby snuggling mommy after a hospital stay."
+    image_url = "/images/gabby-mommy-after-hospital.jpg"
+
+  [[params.gallery_image]]
+    image_alt = "Our Last Picture of Gabby."
+    image_url = "/images/gabby-last.jpg"
+
+
+  #-------------------------------
+  # Contact links
+  [[params.social]]
+    icon = "ion-logo-twitter"
+    name = "Twitter"
+    link = "https://twitter.com/therealgabbycat"
+
+  [[params.social]]
+    icon = "ion-logo-facebook"
+    name = "Facebook"
+    link = "https://www.facebook.com/gabbythetabbyofficial"
+
+  [[params.social]]
+    icon = "ion-logo-instagram"
+    name = "Instagram"
+    link = "https://www.instagram.com/gabby.the.tabby/"
+
+  [[params.social]]
+    icon = "ion-logo-youtube"
+    name = "YouTube"
+    link = "https://www.youtube.com/channel/UCiIqBLPEh8JDbr05X8mKa_g"
+
+  [[params.social]]
+    icon = "ion-ios-mail"
+    name = "Email"
+    link = "mailto:contact@gabbythetabby.com"
+
+  # Example of adding a new link to the author section and footer:
+  # [[params.social]]
+  #   icon = "ion-logo-vimeo"
+  #   name = "Vimeo"
+  #   link = "https://vimeo.com"
+
+  # Other icons can be found at https://ionicons.com/v4/
+
+
+  #-------------------------------
+  # Contact Settings
+  [params.contact]
+    email = "contact@gabbythetabby.com" # Add your email for contant form
+
+  # NOTE
+  # Melotta comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
+
+  #-------------------------------
+  # Comment Section (Disqus)
+  [params.disqus]
+    enable = false
+    disqusShortname = "anvod-studio-test" # add your shortname for Disqus Comment. For example anvod-studio-test
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+
+[markup.highlight]
+  codeFences = true
+  guessSyntax = true
+  noClasses = false
