@@ -1,9 +1,0 @@
-{{ $alt := .PlainText | safeHTML }}
-{{ $src := "" }}
-{{ if strings.HasPrefix .Destination "http" }}
-	{{ $src = .Destination }}
-{{ else }}
-	{{ $src = (resources.Get (printf "/images/%s" .Destination)).RelPermalink }}" }}
-{{ end }}
-
-<img src="{{ $src }}" alt="{{ $alt }}" title="{{ $alt }}" style="display:block;margin:0 auto;">

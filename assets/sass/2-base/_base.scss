@@ -95,11 +95,14 @@ pre {
   word-break: break-all;
 }
 
+
 img,
 .zoom-img-wrap {
   max-width: 100%;
   height: auto;
   vertical-align: middle;
+  display: block;
+  margin: 0 auto;
   &+em {
     display: block;
     margin-top: 15px;

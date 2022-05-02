@@ -119,7 +119,9 @@ Can I feed my cat sardines?
 
 Some people swear by this and say it is absolutely fine. If you're able to find a low-sodium sardine packge, then sure. They're just small fish. But most sardines are packed in a salty brine. We would recommend avoiding.
 
-{{< image "gabby-sam-look.jpg" Resize "400x q85 webp" />}}
+{{< gallery >}}
+	{{< image "gabby-sam-look.jpg" Resize "400x q85 webp" >}}
+{{< /gallery >}}
 
 Fruits & Veggies
 ----------------
@@ -190,9 +192,9 @@ Can I feed my cat kale?
 
 Yes. Absolutely. Kale is rare from other vegetables in that it has a lot in it that your cat actually needs on a nutritional level. Leafy greens that grow above ground, in general, are fine for cats because the cat would have access to eat them on their own. Kale, if you've ever seen it growing, is like a bush. Your cat should be just fine to eat it.
 
-{{< image "behold-my-pretties.jpg" Resize "400x q85 webp" >}}
-"Behold my pretties."
-{{< /image >}}
+{{< gallery >}}
+	{{< image "behold-my-pretties.jpg" Resize "400x q85 webp" >}}
+{{< /gallery >}}
 
 Misc
 ----

@@ -3,13 +3,14 @@ title: 'Can I give my cat canned tuna?'
 date: Mon, 24 Aug 2020 12:00:00 +0000
 draft: false
 tags: ['Information']
+Image: "/images/can-i-feed-my-cat-tuna.jpg"
 ---
 
 Cats _love_ tuna. They really love fish in general, the taste, the smell. Which is weird to me because, outside of a goldfish in a bowl, I don't think I've ever seen a small cat acquire fish on its own.
 
 EDIT: I found a video on YouTube -
 
-https://www.youtube.com/watch?v=2IjSCHQSPrM
+{{< youtube 2IjSCHQSPrM >}}
 
 A lot of people, though, wonder if it's okay to give their sweet little baby canned tuna. I would say to _**be incredibly careful**_ about giving kitty canned tuna. While kitties love fish, and there is nothing wrong with giving the baby tuna in general, the problem comes from who, exactly, that canned tuna was manufactured for: **People** (Big Kitties, as Gabby calls us).
 
@@ -19,7 +20,7 @@ And what about your favorite munchie snacks, like goldfish, trail mix, nuts, etc
 
 Think of a cat's natural diet: Fish, mice, snakes, the occasional beetle. None of it is very salty naturally, and especially not in the concentrations seen in canned meats - which are overloaded with salt.
 
-\[asa\]B00I2KPNYI\[/asa\]
+![](https://p-cdn6pet.jmsinf.com/tmp/image-thumbnails/nutrishlegacy/cat/wet-food/image-thumb__8237__auto_dd2ecd7921c525d64b10c2f0e1fdf76f/purrfect-entree-tuscan-chicken.jpg) *We recommend [Rachael Ray's Nutrish](https://amzn.to/3kr6Y0K)*
 
 This is especially true of canned tuna. It is absolutely inundated with salt. Lots and lots of sodium (just look at the ingredients!). Fish are naturally salty creatures to begin with, and more salt is added as a flavor additive and preservative.
 
@@ -29,7 +30,7 @@ The tuna itself isn't a problem for your cat, though. If you can find low or no-
 
 The best option, though, would be to get some fresh tuna from the deli counter or fish market and blend it in a food processor or finely dice it. This will be the healthiest and most authentic way to give kitty some fish.
 
-\[asa\]B007THOA3K\[/asa\]
+![](/images/freeze-dried-salmon.webp) *[Holistic Ocean Whitefish Treats on Amazon](https://amzn.to/373padC)*
 
 If you're stuck and run out of food and the _only_ thing you have for the cat is canned tuna - and I mean you can't cook up a piece of chicken or anything\- then you'll need to do a few things.
 

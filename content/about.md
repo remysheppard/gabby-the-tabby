@@ -5,19 +5,16 @@ image: "/images/welcome-gabby.jpg"
 
 My name is Samantha, and my husband Sidney and I have the most precious little kitty in the world! Her name is Gabitha LeeAnn, we call her "Gabby" for short!
 
-{{< image "gabinsam.jpg" Resize "800x webp q85" />}}
+{{< image "gabinsam.jpg" Resize "800x webp q85" >}}
 
 We first got Gabby when she was a little less than a year old, and we found her at the best little pet store in Lynchburg, Virginia - where we were vacationing for Thanksgiving. We fell in love with her right away and absolutely had to bring her back home with us!
 
-{{< image "gabby-cage-1.jpg" Resize "500x webp q85" >}}
-This is our very first picture of Gabby
-{{< /image >}}
-
-{{< image "gabby-cage-2.jpg" Resize "500x webp q85" />}}
-
-{{< image "gabby-and-mommy.jpg" Resize "400x webp q85" >}}    
-We stopped for Arby's on the way home and Gabs got a Curley Fry
-{{< /image >}}
+{{< gallery >}}
+	{{< image "gabby-cage-1.jpg" Resize "500x webp q85" >}}
+	{{< image "gabby-cage-2.jpg" Resize "500x webp q85" >}}
+	{{< image "gabby-and-mommy.jpg" Resize "400x webp q85" >}}
+	{{< caption "Our first three pictures with gabby." >}}
+{{< /gallery >}}
 
 So started a wonderful, sometimes trying, relationship with the world's cutest kitty.
 
@@ -31,10 +28,18 @@ We decided, with such a healthy, beautiful, kitty, how could we _not_ share her 
 
 We hope you enjoy seeing snapshots of our lives with this wonderful little creature!
 
-#### Update
+## Update: February 28th, 2022
 
-This was written when we first launched this site back in 2014. Since then Gabby has had the most wonderful little life that a kitty could hope for. Unfortunately, though, from 2021 to 2022 she began having severe health problems. Eventually, in February of 2022, we had to make the most difficult decision and had her humanely euthanized.
+This was written when we first launched this site back in 2014. Since then Gabby has had the most wonderful little life that a kitty could hope for. Unfortunately, though, from 2021 to 2022 she began having severe health problems.
+
+Despite spending over $5,000 and doing everything we could, her situation was unfixable. Throughout her life, Gabby struggled with very severe *pica*. We did everything we could to make sure she didn't ingest things she shouldn't, but nothing can be 100%.
+
+In the end she ingested things that caused irreparable damage and there was no medical or surgical intervention available that would have been able to fix the problem.
+
+Finally, on February 28th, 2022 we made the most difficult decision and had her humanely euthanized.
 
 It was the hardest thing we've ever had to do, and we miss her so dearly. 
+
+We thank you for your thoughts and prayers. We are both devout Christians and, while we do not believe she has 'crossed the rainbow bridge', we are grateful for the sentiment. We loved our cat so dearly, and we trust that our Lord and God will resurrect her on The Day.
 
 We're leaving this site up to help other cat owners, as well as to serve as a memorial to our sweet Gabibberly (as we called her).

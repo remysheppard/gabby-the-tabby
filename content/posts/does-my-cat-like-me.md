@@ -3,17 +3,8 @@ title: 'Does my cat like me?'
 date: Mon, 11 Jan 2021 13:00:00 +0000
 draft: false
 tags:
-- Cat Behavior
-  cat mom
-  fur parent
-  fur mom
-  furmom
-  furdad
-  pet parent
-categories:
 - Information
-images:
-- does-my-cat-like-me.jpg
+image: "/images/does-my-cat-like-me.jpg"
 ---
 
 A lot of pet-parents, cat owners, and fur moms wonder if their cats like them. This is a bit trickier with cats than with dogs. Dogs feel very "on" or "off", but cats can feel very indifferent.
@@ -30,9 +21,7 @@ Sometimes they seek out these places because they genuinely want to be alone, ot
 
 But she's also comfortable napping her little kitty bed because we established a rule in our family to not touch her when she's in her kitty bed. So even though it's in the middle of the room, she knows she's left alone there. For the most part. (Daddy sometimes breaks the rule).
 
-{{< image "gabby-doggy.jpg" Resize "600x webp q85" >}}
-Why have you disturbed me and my doggy?
-{{< /image >}}
+{{< image "gabby-doggy.jpg" Resize "600x webp q85" >}} *Why have you disturbed me and my doggy?*
 
 But certain types of self-isolating behavior in cats isn't necessary an indicator of depression or loneliness - both of which can impact our wonderful little feline friends.
 
@@ -48,9 +37,7 @@ During the day she stays in the same room as daddy does for the most part. She w
 
 At night, she will sleep on top of mommy without fail. Usually curled up somewhere nice and comfortable that ensures mommy can't get any decent rest. Like at her side or sleeping on her foot.
 
-{{< image "perfect-nap-spot.jpg" Resize "600x webp q85">}}
-Ah yes, this is the perfect place to nap.
-{{< /image >}}
+{{< image "perfect-nap-spot.jpg" Resize "600x webp q85">}} *Ah yes, this is the perfect place to nap.*
 
 When mommy and daddy are both home, little Gabbers needs to be exactly between them. If daddy gets up and goes to another room, Gabby will find the middle point between mommy and daddy and lay there or position herself so she can see both of us.
 
@@ -90,9 +77,7 @@ While some cats have extremely outgoing personalities and are extremely friendly
 
 ## What if my cat doesn't like me?
 
-{{< image "gabby-mommy-foot.jpg" Resize "600x webp q85" >}}
-When your cat wants you to know she owns you.
-{{< /image >}}
+{{< image "gabby-mommy-foot.jpg" Resize "600x webp q85" >}} *When your cat wants you to know she owns you.*
 
 Cats are emotional animals, and they're bonding animals. If your cat doesn't bond to you, or to other cats present in your house, you need to consider rehoming it.
 

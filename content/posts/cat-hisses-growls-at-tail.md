@@ -3,20 +3,22 @@ title: 'Why does my cat hiss at her tail?'
 date: Mon, 21 Sep 2020 12:00:00 +0000
 draft: false
 tags: ['Information']
-Image: "images/gabby-blep.jpg"
+Image: "/images/gabby-blep.jpg"
 ---
 
 A cat chasing its tail is usually just playful and fun. In very rare instances a cat may attack, growl, or hiss at its tail due to a condition known as Feline Hyperesthsia (FHE). This is an incredibly rare diagnosis in cats and has been shown to be related to stress. You can keep a cat from harming or attacking its own tail and mitigate the symptoms of FHE with a combination of exercise and a healthy diet.
 
 Sometimes you watch your cat chase its tail and you wonder to yourself, "Like, it knows that that thing is a part of its body, right?" It is a concern that any pet parent has when they see their cat seemingly viciously attack a part of its own body!
 
-[![](gabby-tail.jpg)](http://amzn.to/2hJelOz)
+{{< gallery >}}
+  {{< image "gabby-tail.jpg" Resize "400x webp q85" >}}
+{{< /gallery >}}
 
 With Gabby this was a genuine concern for us when she was a kitten because, a part from her little chin, the only white that Gabby has on her entire body is on the very tippy-tip of her little white-tipped tail.
 
 We would often watch Gabby go after her tail with a certain amount of ferocity and get a bit worried. I mean, surely she knew that her tail was a part of her body, right? Well, yes and no.
 
-Most all of the time, a cat chasing its tail is just play behavior with a cat enjoying one of God's many "baked in" toys that cats seem to come equipped with in their lives. The tail is not only useful for balance, helpful in running, and used in many cat social behaviors, but it really does work out to be the ultimate chase toy! You can chase and chase it, and it never gets tired, it always _just _gets away, keeping the hunt entertaining and long lasting - how perfect!_
+Most all of the time, a cat chasing its tail is just play behavior with a cat enjoying one of God's many "baked in" toys that cats seem to come equipped with in their lives. The tail is not only useful for balance, helpful in running, and used in many cat social behaviors, but it really does work out to be the ultimate chase toy! You can chase and chase it, and it never gets tired, it always _just_ gets away, keeping the hunt entertaining and long lasting - how perfect!
 
 But sometimes that play _isn't_ playful and can be damaging or negative behavior for the cat. Sometimes a cat doesn't actually know that its tail is a part of its body. Sometimes the cat is genuinely worried that something has latched on to its butt and this intruder must be vanquished at all possible costs!
 
@@ -57,16 +59,16 @@ Another possible cause of a cat attacking, hissing at, or growling at its own ta
 
 Other symptoms of FHE in cats include grand mal seizures, rapid mood shifts, and sudden explosion of manic behavior from a restful or completely sleeping behavior. The theory being that something misfires in the cat's brain, causing it to feel an extreme itch or pain in a part of its body, leading it to believe it is being attacked or set upon. This would seem to adequately describe the reactions of FHE, but we have nothing yet to prove or define the cause.
 
-A lot of the symptoms of FHE can be managed through medication and antidepressants. However, a strong diet and exercise have been shown to mitigate the effects of FHE in a lot of cases more effectively than medication. If you think your cat has FHE, you should absolutely consult your vet. Unfortunately it is sort of a "last ditch" diagnosis that is only considered accurate once everything _verifiable _has been ruled out._
+A lot of the symptoms of FHE can be managed through medication and antidepressants. However, a strong diet and exercise have been shown to mitigate the effects of FHE in a lot of cases more effectively than medication. If you think your cat has FHE, you should absolutely consult your vet. Unfortunately it is sort of a "last ditch" diagnosis that is only considered accurate once everything _verifiable has been ruled out._
 
 How to stop my cat from attacking its tail
 ------------------------------------------
 
-A great way to stop your cat from attacking its own tail is through strong and [h](http://amzn.to/2hJelOz)ealthy play time activities! If FHE and over-aggressive tail play is brought on through cat stress or boredom, as is thought by some, then simply relieving that boredom should solve the problem! As we've said before, [the best cat toys are the ones that fulfill the cat's need to predate](https://www.gabbythetabby.com/best-cat-toys-amazon-2017/) - that is, to hunt. Now you may work full time and might not always have time to alleviate your cat's boredom or stress when it needs it, and that's understandable.
+A great way to stop your cat from attacking its own tail is through strong and [healthy playtime activities](http://amzn.to/2hJelOz)! If FHE and over-aggressive tail play is brought on through cat stress or boredom, as is thought by some, then simply relieving that boredom should solve the problem! As we've said before, [the best cat toys are the ones that fulfill the cat's need to predate](/best-cat-toys-amazon-2022/) - that is, to hunt. Now you may work full time and might not always have time to alleviate your cat's boredom or stress when it needs it, and that's understandable.
 
 That's why we recommend something like that [Catit Designs "Senses Play Circuit."](http://amzn.to/2hJelOz) The Catit Senses is a toy that is designed to stimulate your cat's need for hunt and play and replicate that feeling they get when chasing their tail (or a mouse, or a snake, or a scrap of paper, or anything else they'd be likely to chase).  The circuit contains a lot of high and low sections that get the ball inside moving at a pretty good pace, encouraging the cat to chase it.
 
-\[asa\]B00A4A7UOU\[/asa\]
+{{< image "catit-senses-cat-playset.jpg" Resize "600x webp q70" >}} *[Catit Senses Playset](http://amzn.to/2hJelOz)*
 
 The ball itself lights up to help encourage and entice playtime with your cat, and the large openings are made specifically for kitty paws, so there is little worry that your cat will get stuck or injured while playing with the Catit Senses.
 
@@ -80,7 +82,7 @@ You can configure the top rug in a number of patterns and ways to create little 
 
 [This simple rug](https://amzn.to/3a1egnD) was hours of entertainment for our Gabby! It's made of recycled materials and is incredibly sturdy. Our [Original Ripple Rug](https://amzn.to/3a1egnD) lasted us for several years. Eventually, however, it lost its rigidity. It was still a worthwhile investment.
 
-\[asa\]B016H3T8EC\[/asa\]
+![](https://m.media-amazon.com/images/I/71dghidS4uL._AC_SX466_.jpg)
 
 In Conclusion
 -------------

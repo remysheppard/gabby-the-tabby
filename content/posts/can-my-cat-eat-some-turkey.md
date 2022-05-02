@@ -2,7 +2,9 @@
 title: 'Can my cat eat Thanksgiving turkey?'
 date: Mon, 23 Nov 2020 13:00:00 +0000
 draft: false
-tags: ['featured', 'Information']
+tags:
+- Information
+Image: "/images/cat-turkey-dinner.jpg"
 ---
 
 You should not feed your cat any Thanksgiving turkey. This is because the seasonings you use are terrible for your cat. Instead, bake a small Cornish hen without any seasonings or flavoring as a safe Thanksgiving alternative for your kitties.
@@ -11,13 +13,13 @@ You should not feed your cat any Thanksgiving turkey. This is because the season
 
 If you aren't using a flavor or butter injection on your turkey, a bit of dark meat won't hurt your kitty. If you can - and I know this is a big ask - get some meat off the bird _before_ it has been seasoned or cooked. Just as soon as you pull the bird out of the bag, go ahead, and cut a bit off (raw) and keep it aside for your cat.
 
-Raw poultry isn't a big danger to cats, as they can process, and pass, bacteria more efficiently than humans can. Salmonella, while still a concern, isn't a big one. Remember: Your animal was _specifically designed _to hunt, kill, and eat these birds.
+Raw poultry isn't a big danger to cats, as they can process, and pass, bacteria more efficiently than humans can. Salmonella, while still a concern, isn't a big one. Remember: Your animal was _specifically designed to hunt, kill, and eat these birds._
 
-If you're honoring the age old American tradition of picking up a deep fried turkey pre-cooked from a place like _Bojangles_, or whatever you may have in your area, just know that it is a no-go.
+If you're honoring the age old American tradition of picking up a deep fried turkey pre-cooked from a place like _Bojangles_, or whatever you may have in your area, just know that it is a no-go.
 
 And none of this is to say you can't give a small piece of turkey to the cat while you're sitting at the table. You absolutely can! A small amount like that is fun for you and the cat and won't do any real damage (except for train your cat that it's okay to beg at the table). Just make sure it's all meat with _no seasoned skin!_
 
-In this article we're talking about making special _meals_ for your baby.
+In this article we're talking about making special _meals_ for your baby.
 
 ### A Good Alternative: Cornish Hen
 
@@ -25,18 +27,18 @@ If you're looking for a suitable alternative to Turkey and want to take the time
 
 Make sure you don't give any bones to your cat, as _cooked_ bones are brittle and will splinter in your cat and cause potentially fatal problems. If the bird is raw make sure you pass it through a grinder before giving them any bone.
 
-\[asa\]B01JWN4QN2\[/asa\]
+![](https://m.media-amazon.com/images/I/81X7uQHeGrL._AC_SX679_.jpg) *This is the grinder we use: [The STX Turboforce II](https://amzn.to/3F5MUdM)*
 
 Also consider that the average domestic house cat only needs about 600 calories a day. Three ounces of turkey will rough out to about 200 calories, and half a Cornish hen to around 350 calories. So, make sure you weigh and measure the food, so you don't overfeed your cat.
 
 Other Thanksgiving Goodies
 --------------------------
 
-If you don't know, there are tons of things cats can eat and a ton of things that cats simply weren't meant to eat. The biggest problem you'll face at Thanksgiving with giving your cat food - likely the biggest problem you'll face any time you want to give your cat food - is _salt._
+If you don't know, there are tons of things cats can eat and a ton of things that cats simply weren't meant to eat. The biggest problem you'll face at Thanksgiving with giving your cat food - likely the biggest problem you'll face any time you want to give your cat food - is _salt._
 
-[I've said it before](https://www.gabbythetabby.com/can-give-cat-canned-tuna/), I'll say it again: Cats do not process sodium very well at all. High concentrations of salt - and high means anything added that isn't naturally occurring - can result in renal failure in felines.
+[I've said it before](/can-i-give-my-cat-canned-tuna/), I'll say it again: Cats do not process sodium very well at all. High concentrations of salt - and high means anything added that isn't naturally occurring - can result in renal failure in felines.
 
-A huge problem with human food is that it is packed to the brim with salt because _we_ can't get enough of the stuff! This means in general most of the food you've prepared for yourself for Thanksgiving should be off-limits to your feline friend.
+A huge problem with human food is that it is packed to the brim with salt because _we_ can't get enough of the stuff! This means in general most of the food you've prepared for yourself for Thanksgiving should be off-limits to your feline friend.
 
 ### Can I give my cat Stuffing or Dressing with Cranberry sauce?
 

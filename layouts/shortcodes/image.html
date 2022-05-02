@@ -9,13 +9,4 @@
 {{ .Scratch.Set "image" ($original.Fill $options) }}
 {{ end }}
 {{ $image := .Scratch.Get "image" }}
-<figure class="w-full text-center mt-5 mb-10 flex flex-col items-center justify-center">
-	<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" class="rounded shadow">
-	{{ with .Inner }}
-		<figcaption>
-			<small>
-				{{ . }}
-			</small>
-		</figcaption>
-	{{ end }}
-</figure>  
+<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" loading="lazy">
